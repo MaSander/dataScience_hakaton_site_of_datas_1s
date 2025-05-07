@@ -28,7 +28,8 @@ def gerar_vendas(n=200, max_clientes=100, max_produtos=50):
             'avaliacao_servico': avaliacao
         })
 
-    pd.DataFrame(dados).to_csv('vendas.csv', index=False, sep=';', encoding='utf-8')
+    # pd.DataFrame(dados).to_csv('vendas.csv', index=False, sep=';', encoding='utf-8')
+    pd.DataFrame(dados).to_json('db/commercial/vendas.json')
     print("Arquivo 'vendas.csv' gerado com sucesso.")
 
 if __name__ == "__main__":

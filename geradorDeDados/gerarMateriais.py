@@ -8,7 +8,7 @@ def gerar_materiais(n=100):
     unidades = ['kg', 'litro', 'unidade']
     setores = ['Produção', 'Higiene', 'Cozinha']
     turnos = ['Manhã', 'Tarde', 'Noite']
-    
+
     dados = []
     for i in range(1, n + 1):
         custo = round(random.uniform(0.5, 200), 2)
@@ -27,7 +27,8 @@ def gerar_materiais(n=100):
             'turno': random.choice(turnos)
         })
 
-    pd.DataFrame(dados).to_csv('materiais.csv', index=False, sep=';', encoding='utf-8')
+    # pd.DataFrame(dados).to_csv('materiais.csv', index=False, sep=';', encoding='utf-8')
+    pd.DataFrame(dados).to_json('db/operational/materiais.json')
     print("Arquivo 'materiais.csv' gerado com sucesso.")
 
 if __name__ == "__main__":

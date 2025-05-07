@@ -1,0 +1,101 @@
+id_funcionario;nome;sexo;data_admissao;cargo;setor;turno;salario
+1;Dr. Anthony Albuquerque;;2023-10-22;Analista;Produção;Noite;11421.21
+2;Dr.;F;2016-11-02;Auxiliar;Comercial;Manhã;11081.07
+3;Joana da Mata;M;2021-02-01;Analista;Logística;Tarde;5034.62
+4;Rafael Ribeiro;F;2021-01-26;Operador;RH;Manhã;11270.3
+5;João Vitor Castro;F;2020-09-12;Auxiliar;Produção;Noite;4345.0
+6;Asafe Teixeira;F;2024-06-08;Gerente;Financeiro;Tarde;6102.74
+7;Lucca Andrade;F;2020-11-12;Analista;Financeiro;Tarde;6436.49
+8;Mariane Jesus;M;2018-05-19;Auxiliar;RH;Tarde;4894.82
+9;Srta. Sara Araújo;F;2022-03-21;Supervisor;Financeiro;Tarde;3126.9
+10;Clarice Novais;F;2024-06-23;Analista;Comercial;Tarde;24545.5
+11;Dra. Maria Luiza Casa Grande;F;2015-07-27;Supervisor;Logística;Noite;14946.48
+12;Ana Cecília Pimenta;M;2025-03-19;Operador;RH;Noite;5894.42
+13;Aug;F;2016-03-05;Analista;Comercial;Manhã;13213.16
+14;Sra. Gabriela Fonseca;M;2021-06-18;Operador;Produção;Noite;56733.5
+15;Murilo da Mota;F;2019-03-17;Analista;Comercial;Manhã;2382.02
+16;Samuel Pacheco;M;2022-05-18;Operador;Financeiro;Tarde;8481.9
+17;Isaque Martins;M;2021-01-02;Supervisor;RH;Tarde;13614.67
+18;Luiz Otávio Oliveira;F;2019-08-20;Auxiliar;Produção;Noite;9909.22
+19;Luana Castro;F;2016-10-17;Supervisor;Financeiro;Noite;3025.9
+20;Letícia Pimenta;F;2018-02-06;Auxiliar;Logística;Tarde;7045.38
+21;Ryan Alves;M;2017-01-21;Gerente;Produção;Manhã;3843.94
+22;Davi Luiz Silveira;M;2018-12-25;Operador;Produção;Manhã;
+23;Enzo Gabriel Marques;M;2023-10-11;Supervisor;Logística;Manhã;13132.18
+24;Mel;F;2019-12-09;Operador;Logística;Manhã;3820.59
+25;Isadora da Luz;;2021-05-26;Operador;Logística;Noite;13887.54
+26;Clarice Lima;M;2019-02-09;Analista;Logística;Manhã;14194.03
+27;Ana;;2018-07-04;Analista;RH;Manhã;4865.48
+28;Gustavo Henrique da Luz;M;2026-09-24;Operador;Comercial;Manhã;2211.0
+29;Maria Vitória Garcia;M;2016-03-28;Analista;Logística;Noite;10908.85
+30;Benjamin Nogueira;;2017-09-26;Auxiliar;Financeiro;Tarde;2792.92
+31;Sr. Caio Pacheco;F;2022-02-19;Gerente;Comercial;Tarde;4665.47
+32;Rafael Nunes;M;2026-05-19;Analista;RH;Manhã;11428.99
+33;Dan;F;2018-12-18;Gerente;Comercial;Noite;3243.69
+34;Raul Sousa;M;2016-04-30;Analista;Financeiro;Noite;2618.55
+35;Enzo Gabriel Campos;M;2019-01-05;Analista;Financeiro;Manhã;133635.40000000002
+36;Valentim Castro;M;2017-11-26;Auxiliar;Logística;Manhã;13048.59
+37;Gael Henrique Santos;M;2017-10-12;Analista;Logística;Tarde;5044.72
+38;Rodrigo Pacheco;F;2024-08-28;Auxiliar;RH;Manhã;
+39;Antony Freitas;F;2022-08-16;Operador;Produção;Tarde;
+40;Pietra Martins;M;2020-07-16;Auxiliar;RH;Noite;5532.04
+41;Carlos Eduardo Rios;F;2022-11-09;Gerente;Comercial;Manhã;3847.39
+42;Calebe Moreira;F;2021-08-25;Auxiliar;RH;Tarde;4100.52
+43;Dr. Luiz Gustavo Sales;M;2023-05-01;Analista;Produção;Tarde;8313.24
+44;Sr. Otto Mendes;F;2023-06-04;Analista;Financeiro;Manhã;1837.75
+45;Kevin das Neves;M;2020-12-16;Supervisor;Logística;Tarde;
+46;Thomas Pimenta;M;2016-12-13;Analista;Financeiro;Noite;8347.82
+47;Dra. Alícia Moreira;F;2020-09-18;Operador;Comercial;Tarde;14310.55
+48;Benicio Araújo;F;2024-09-03;Supervisor;Logística;Tarde;11574.52
+49;Alícia Camargo;M;2015-12-19;Auxiliar;RH;Manhã;4949.67
+50;Enzo Sampaio;M;2018-06-15;Auxiliar;Logística;Tarde;5766.16
+51;Ryan Gomes;M;2021-10-09;Operador;Logística;Tarde;1281.37
+52;Sr. Lorenzo Martins;F;2019-12-07;Operador;Comercial;Manhã;7937.57
+53;Enzo Casa Grande;F;2016-01-14;Supervisor;Financeiro;Noite;8570.91
+54;Maria Sophia Castro;X;2022-09-10;Supervisor;Financeiro;Manhã;4790.16
+55;Helena Oliveira;F;2022-10-18;Supervisor;RH;Manhã;7690.23
+56;Isaque Guerra;M;2016-08-18;Auxiliar;Produção;Manhã;39511.799999999996
+57;Dr. Marcelo Silva;M;2018-04-11;Gerente;RH;Manhã;9561.32
+58;Dr. Anthony Gabriel da Cruz;F;2022-05-12;Auxiliar;RH;Noite;10547.39
+59;Bernardo Mendonça;F;2018-03-25;Gerente;Comercial;Manhã;
+60;Gael Henrique Silva;M;2018-11-28;Gerente;Produção;Tarde;12548.17
+61;Sra. Evelyn Caldeira;M;2022-11-25;Operador;RH;Noite;12353.15
+62;Ravi Lucca da Cruz;F;2019-06-06;Analista;Produção;Tarde;13366.51
+63;Laís Macedo;M;2024-02-12;Gerente;Financeiro;Tarde;4127.25
+64;Thiago Melo;F;2023-05-05;Operador;Financeiro;Manhã;4530.71
+65;Davi Lucas Rocha;F;2016-04-10;Auxiliar;Produção;Tarde;4258.03
+66;Ravi Aragão;F;2020-11-14;Operador;RH;Tarde;10899.4
+67;Sr. Rafael das Neves;M;2019-03-08;Analista;Financeiro;Manhã;11392.74
+68;Ana Clara Silveira;M;2022-01-11;Gerente;Financeiro;Tarde;36762.9
+69;Srta. Eloah Pinto;F;2024-09-04;Analista;Logística;Manhã;13243.53
+70;Dra. Olívia Gomes;M;2016-06-10;Supervisor;Produção;Manhã;6729.76
+71;Letícia Aparecida;F;2022-07-11;Analista;Produção;Noite;11749.32
+72;Gabrielly da Luz;F;2024-10-24;Gerente;Comercial;Tarde;5414.25
+73;Rebeca Rios;M;2016-11-16;Gerente;Produção;Manhã;4510.14
+74;Cauê das Neves;F;2021-09-08;Analista;RH;Noite;5101.51
+75;Anthony Gabriel Rocha;M;2016-05-20;Operador;Financeiro;Noite;3256.05
+76;Aurora Câmara;F;2021-06-22;Supervisor;RH;Noite;6754.62
+77;Daniela Lima;F;2018-07-30;Operador;RH;Manhã;2460.31
+78;Marcela Campos;F;2015-10-22;Analista;Logística;Noite;10190.83
+79;Eduarda Pastor;F;2018-06-16;Supervisor;RH;Tarde;5799.66
+80;Sr. Thales Carvalho;F;2023-10-20;Supervisor;Comercial;Manhã;7476.6
+81;Murilo da Costa;M;2019-02-17;Operador;Logística;Tarde;1948.02
+82;Kamilly Carvalho;M;2020-03-14;Operador;Financeiro;Tarde;7246.0
+83;Lara Pires;M;2023-08-17;Gerente;Comercial;Manhã;8821.07
+84;Julia Castro;M;2021-07-29;Analista;Logística;Noite;5227.69
+85;Luiza da Paz;F;2018-11-17;Supervisor;Financeiro;Noite;8213.72
+86;Kamilly Moura;F;2015-09-14;Operador;RH;Manhã;5103.18
+87;Dr. Ryan da Cunha;M;2017-02-20;Supervisor;RH;Tarde;8816.46
+88;Henrique Vieira;M;2015-11-13;Analista;Logística;Manhã;5590.83
+89;Danilo da Conceição;M;2017-10-22;Auxiliar;Financeiro;Noite;14521.88
+90;Kevin Vargas;X;2027-01-10;Analista;Logística;Noite;14585.4
+91;Luan Moraes;F;2024-09-06;Gerente;Comercial;Tarde;14367.13
+92;Letícia Monteiro;M;2022-08-31;Gerente;Financeiro;Noite;2447.23
+93;João Miguel da Rosa;M;2020-07-19;Auxiliar;Produção;Tarde;12186.78
+94;Eloah Cardoso;M;2021-09-17;Auxiliar;Comercial;Tarde;9752.0
+95;Francisco Vargas;F;2019-07-30;Auxiliar;Logística;Tarde;10551.03
+96;Maria Luísa Lopes;F;2020-09-16;Supervisor;RH;Manhã;14991.36
+97;Anna Liz Fonseca;F;2022-04-17;Gerente;Produção;Noite;66621.2
+98;Nicolas Rezende;F;2024-12-15;Gerente;Financeiro;Noite;12266.66
+99;Ágatha Sá;M;2023-03-22;Auxiliar;RH;Tarde;1660.43
+100;Maria Sophia Cunha;F;2016-08-13;Analista;Comercial;Tarde;8525.76

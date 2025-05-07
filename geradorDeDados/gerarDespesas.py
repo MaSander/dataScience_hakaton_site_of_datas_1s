@@ -7,7 +7,7 @@ fake = Faker('pt_BR')
 def gerar_despesas(n=200):
     tipos = ['Energia', 'Água', 'Internet', 'Salário', 'Compra Matéria-prima']
     setores = ['Produção', 'Financeiro', 'RH', 'Logística', 'Comercial']
-    
+
     dados = []
     for i in range(1, n + 1):
         valor = round(random.uniform(50, 20000), 2)
@@ -23,7 +23,8 @@ def gerar_despesas(n=200):
             'fornecedor': fake.company() if random.random() > 0.1 else ''
         })
 
-    pd.DataFrame(dados).to_csv('despesas.csv', index=False, sep=';', encoding='utf-8')
+    # pd.DataFrame(dados).to_csv('despesas.csv', index=False, sep=';', encoding='utf-8')
+    pd.DataFrame(dados).to_json('db/financial/despesas.json')
     print("Arquivo 'despesas.csv' gerado com sucesso.")
 
 if __name__ == "__main__":

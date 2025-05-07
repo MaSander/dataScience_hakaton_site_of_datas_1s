@@ -30,7 +30,8 @@ def gerar_frequencia(n_func=100, dias=30):
             })
 
     df = pd.DataFrame(dados)
-    df.to_csv('frequencia.csv', index=False, sep=';', encoding='utf-8')
+    # df.to_csv('frequencia.csv', index=False, sep=';', encoding='utf-8')
+    df.to_json('db/human_resources/frequencia.json')
     print("Arquivo 'frequencia.csv' gerado com sucesso.")
 
 if __name__ == "__main__":

@@ -22,7 +22,8 @@ def gerar_rotas(n=50):
             'tipo_veiculo': random.choice(tipos)
         })
 
-    pd.DataFrame(dados).to_csv('rotas.csv', index=False, sep=';', encoding='utf-8')
+    # pd.DataFrame(dados).to_csv('rotas.csv', index=False, sep=';', encoding='utf-8')
+    pd.DataFrame(dados).to_json('db/transport/rotas.json')
     print("Arquivo 'rotas.csv' gerado com sucesso.")
 
 if __name__ == "__main__":
