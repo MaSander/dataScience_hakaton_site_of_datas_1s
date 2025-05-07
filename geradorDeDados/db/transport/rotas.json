@@ -1,1 +1,302 @@
-{"origem":{"0":"Andrade","1":"Gomes do Sul","2":"Rezende","3":"Carvalho do Oeste","4":"Fonseca de da Mota","5":"Vargas","6":"Cavalcante","7":"Alves","8":"Cavalcante do Oeste","9":"Camargo do Sul","10":"Pimenta de Siqueira","11":"Duarte","12":"Camargo","13":"Costa","14":"Novais","15":"Correia","16":"Rodrigues","17":"Oliveira da Mata","18":"Foga\u00e7a","19":"Silva dos Dourados","20":"Borges","21":"Nascimento","22":"da Luz","23":"Melo","24":"Cavalcanti","25":"Pimenta","26":"Marques","27":"Santos de Dias","28":"Pacheco de Lima","29":"Martins","30":"Brito","31":"Teixeira Verde","32":"Abreu","33":"Teixeira","34":"da Paz","35":"Camargo","36":"Lopes dos Dourados","37":"Nascimento","38":"da Mata do Norte","39":"Lima de Minas","40":"da Mota","41":"Machado do Amparo","42":"Vargas da Prata","43":"Cavalcanti","44":"da Mota","45":"Barbosa","46":"Gomes","47":"Machado do Galho","48":"Farias","49":"Novais"},"destino":{"0":"Souza","1":"Sousa de Silveira","2":"Cunha de Minas","3":"Dias","4":"Brito","5":"Sampaio","6":"da Concei\u00e7\u00e3o","7":"Peixoto","8":"das Neves","9":"Machado das Flores","10":"Barbosa","11":"Barros","12":"Sales","13":"Vargas","14":"Vargas Paulista","15":"da Paz Verde","16":"Cunha do Amparo","17":"Jesus","18":"da Paz","19":"Moura","20":"Mendon\u00e7a da Prata","21":"da Paz","22":"da Paz","23":"Nunes","24":"Costa de Dias","25":"da Rocha do Oeste","26":"Rezende","27":"Sousa de Ferreira","28":"Lopes Alegre","29":"Arag\u00e3o","30":"Pires","31":"Rocha do Galho","32":"Caldeira do Norte","33":"Mendon\u00e7a Verde","34":"Mendes","35":"Costa","36":"Pastor","37":"Almeida","38":"Fonseca","39":"Novais de Minas","40":"Ramos do Campo","41":"Martins","42":"Ferreira","43":"Silveira de Montenegro","44":"Nascimento Alegre","45":"Pacheco de Barbosa","46":"Teixeira","47":"Oliveira","48":"Cirino do Oeste","49":"Pimenta"},"distancia_km":{"0":414.28,"1":2150.51,"2":325.26,"3":2299.02,"4":2213.4,"5":1418.26,"6":149.78,"7":2982.14,"8":501.78,"9":820.31,"10":703.36,"11":347.08,"12":523.21,"13":1648.8,"14":198.61,"15":-100.0,"16":732.99,"17":2954.9,"18":2582.87,"19":542.23,"20":2144.11,"21":43.02,"22":164.29,"23":590.08,"24":922.31,"25":1555.94,"26":2955.91,"27":354.61,"28":774.94,"29":2904.4,"30":437.7,"31":-100.0,"32":2365.42,"33":2688.09,"34":1929.25,"35":2841.75,"36":1067.43,"37":2760.83,"38":1850.26,"39":535.17,"40":2138.67,"41":2073.37,"42":983.1,"43":1320.55,"44":2954.81,"45":1891.92,"46":2560.04,"47":286.08,"48":135.7,"49":2776.88},"tipo_veiculo":{"0":"Caminh\u00e3o","1":"Caminh\u00e3o","2":"Carreta","3":"Furg\u00e3o","4":"Carreta","5":"Caminh\u00e3o","6":"Caminh\u00e3o","7":"Caminh\u00e3o","8":"Caminh\u00e3o","9":"Carreta","10":"Furg\u00e3o","11":"Furg\u00e3o","12":"Caminh\u00e3o","13":"Furg\u00e3o","14":"Caminh\u00e3o","15":"Caminh\u00e3o","16":"Carreta","17":"Carreta","18":"Furg\u00e3o","19":"Furg\u00e3o","20":"Caminh\u00e3o","21":"Caminh\u00e3o","22":"Caminh\u00e3o","23":"Carreta","24":"Carreta","25":"Carreta","26":"Carreta","27":"Carreta","28":"Carreta","29":"Furg\u00e3o","30":"Caminh\u00e3o","31":"Furg\u00e3o","32":"Furg\u00e3o","33":"Caminh\u00e3o","34":"Carreta","35":"Furg\u00e3o","36":"Caminh\u00e3o","37":"Furg\u00e3o","38":"Carreta","39":"Furg\u00e3o","40":"Carreta","41":"Carreta","42":"Carreta","43":"Caminh\u00e3o","44":"Caminh\u00e3o","45":"Carreta","46":"Furg\u00e3o","47":"Carreta","48":"Furg\u00e3o","49":"Furg\u00e3o"}}
+[
+    {
+        "origem":"Campos",
+        "destino":"Câmara das Pedras",
+        "distancia_km":1713.32,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Pacheco",
+        "destino":"Montenegro de Minas",
+        "distancia_km":1662.14,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Lima da Praia",
+        "destino":"Almeida",
+        "distancia_km":1762.91,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Abreu",
+        "destino":"Abreu",
+        "distancia_km":1558.02,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Porto",
+        "destino":"Cirino Grande",
+        "distancia_km":-100.0,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Andrade",
+        "destino":"Viana",
+        "distancia_km":2293.71,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"da Cruz",
+        "destino":"Monteiro",
+        "distancia_km":1202.67,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Campos do Campo",
+        "destino":"Pinto do Galho",
+        "distancia_km":2715.72,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Rios da Praia",
+        "destino":"Souza de Rodrigues",
+        "distancia_km":2594.66,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Siqueira da Mata",
+        "destino":"Cunha",
+        "distancia_km":1916.84,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Fonseca dos Dourados",
+        "destino":"Garcia",
+        "distancia_km":117.01,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Mendes",
+        "destino":"Leão das Pedras",
+        "distancia_km":1272.54,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Barbosa",
+        "destino":"Pimenta do Galho",
+        "distancia_km":893.47,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Sá",
+        "destino":"Cassiano",
+        "distancia_km":1341.65,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Câmara da Mata",
+        "destino":"Peixoto de das Neves",
+        "distancia_km":374.31,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Duarte",
+        "destino":"Mendonça",
+        "distancia_km":888.52,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Andrade",
+        "destino":"Lopes",
+        "distancia_km":45.29,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Oliveira",
+        "destino":"Casa Grande do Galho",
+        "distancia_km":884.91,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Leão",
+        "destino":"Nogueira das Pedras",
+        "distancia_km":1477.8,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Moraes de Souza",
+        "destino":"Sousa Verde",
+        "distancia_km":2811.45,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Pinto",
+        "destino":"Souza de Cirino",
+        "distancia_km":1897.16,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Santos de Montenegro",
+        "destino":"Câmara",
+        "distancia_km":-100.0,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Novais",
+        "destino":"Sá de Minas",
+        "distancia_km":983.62,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Cassiano",
+        "destino":"Moreira",
+        "distancia_km":110.31,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Castro de Carvalho",
+        "destino":"Casa Grande",
+        "distancia_km":225.84,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Viana",
+        "destino":"Rios",
+        "distancia_km":-100.0,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Almeida",
+        "destino":"Novais da Prata",
+        "distancia_km":451.76,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Aparecida",
+        "destino":"Cirino Grande",
+        "distancia_km":90.82,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Cirino",
+        "destino":"Fonseca dos Dourados",
+        "distancia_km":2729.54,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Fogaça dos Dourados",
+        "destino":"Sá do Oeste",
+        "distancia_km":1840.78,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Fogaça do Sul",
+        "destino":"Teixeira",
+        "distancia_km":1285.72,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Borges da Praia",
+        "destino":"Nascimento da Serra",
+        "distancia_km":704.69,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Correia",
+        "destino":"Leão do Campo",
+        "distancia_km":2092.61,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Silveira da Praia",
+        "destino":"Pereira",
+        "distancia_km":2866.26,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Mendes de Minas",
+        "destino":"da Conceição de Sá",
+        "distancia_km":397.89,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Santos",
+        "destino":"da Luz de Cardoso",
+        "distancia_km":329.74,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"da Rosa da Praia",
+        "destino":"Rocha do Amparo",
+        "distancia_km":605.64,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Souza",
+        "destino":"da Rosa das Flores",
+        "distancia_km":2400.59,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Cirino",
+        "destino":"da Luz",
+        "distancia_km":654.93,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Vieira do Campo",
+        "destino":"da Cruz do Galho",
+        "distancia_km":1362.27,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Camargo",
+        "destino":"Fonseca de Vasconcelos",
+        "distancia_km":1068.96,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Nunes",
+        "destino":"da Luz",
+        "distancia_km":1176.16,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Lopes Paulista",
+        "destino":"Barbosa das Flores",
+        "distancia_km":791.04,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"da Cunha",
+        "destino":"da Luz de Castro",
+        "distancia_km":886.99,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Machado do Sul",
+        "destino":"das Neves dos Dourados",
+        "distancia_km":2929.77,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Pacheco",
+        "destino":"da Luz da Prata",
+        "distancia_km":113.19,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Brito de Souza",
+        "destino":"Souza de Minas",
+        "distancia_km":2447.82,
+        "tipo_veiculo":"Furgão"
+    },
+    {
+        "origem":"Aragão",
+        "destino":"Camargo da Prata",
+        "distancia_km":1596.15,
+        "tipo_veiculo":"Carreta"
+    },
+    {
+        "origem":"Vargas",
+        "destino":"Mendonça",
+        "distancia_km":1209.03,
+        "tipo_veiculo":"Caminhão"
+    },
+    {
+        "origem":"Brito Alegre",
+        "destino":"Moraes do Norte",
+        "distancia_km":1134.01,
+        "tipo_veiculo":"Caminhão"
+    }
+]

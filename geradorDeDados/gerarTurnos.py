@@ -10,7 +10,7 @@ def gerar_turnos():
 
     df = pd.DataFrame(dados)
     # df.to_csv('turnos.csv', index=False, sep=';', encoding='utf-8')
-    df.to_json('db/human_resources/turnos.json')
+    df.to_json('db/human_resources/turnos.json', orient='records', indent=4, force_ascii=False)
     print("Arquivo 'turnos.csv' gerado com sucesso.")
 
 if __name__ == "__main__":

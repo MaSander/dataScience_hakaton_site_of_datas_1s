@@ -36,7 +36,7 @@ def gerar_entregas(n=100):
         })
 
     # pd.DataFrame(dados).to_csv('entregas.csv', index=False, sep=';', encoding='utf-8')
-    pd.DataFrame(dados).to_json('db/transport/entregas.json')
+    pd.DataFrame(dados).to_json('db/transport/entregas.json', orient='records', indent=4, force_ascii=False)
     print("Arquivo 'entregas.csv' gerado com sucesso.")
 
 if __name__ == "__main__":

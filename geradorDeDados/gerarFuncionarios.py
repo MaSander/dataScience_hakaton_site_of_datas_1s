@@ -48,7 +48,7 @@ def gerar_funcionarios(n=100):
 
     df = pd.DataFrame(dados)
     # df.to_csv('funcionarios.csv', index=False, sep=';', encoding='utf-8')
-    df.to_json('db/human_resources/funcionarios.json')
+    df.to_json('db/human_resources/funcionarios.json', orient='records', indent=4, force_ascii=False)
     print("Arquivo 'funcionarios.csv' gerado com sucesso.")
 
 if __name__ == "__main__":

@@ -28,7 +28,7 @@ def gerar_materiais(n=100):
         })
 
     # pd.DataFrame(dados).to_csv('materiais.csv', index=False, sep=';', encoding='utf-8')
-    pd.DataFrame(dados).to_json('db/operational/materiais.json')
+    pd.DataFrame(dados).to_json('db/operational/materiais.json', orient='records', indent=4, force_ascii=False)
     print("Arquivo 'materiais.csv' gerado com sucesso.")
 
 if __name__ == "__main__":

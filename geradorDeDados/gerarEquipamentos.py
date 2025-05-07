@@ -30,7 +30,7 @@ def gerar_equipamentos(n=50):
         })
 
     # pd.DataFrame(dados).to_csv('equipamentos.csv', index=False, sep=';', encoding='utf-8')
-    pd.DataFrame(dados).to_json('db/operational/equipamentos.json')
+    pd.DataFrame(dados).to_json('db/operational/equipamentos.json', orient='records', indent=4, force_ascii=False)
     print("Arquivo 'equipamentos.csv' gerado com sucesso.")
 
 if __name__ == "__main__":

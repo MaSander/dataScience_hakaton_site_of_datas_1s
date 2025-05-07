@@ -20,7 +20,7 @@ def gerar_uso_equipamento(n_equip=50, dias=30):
                 'turno': random.choice(turnos)
             })
 
-    pd.DataFrame(dados).to_json('db/operational/uso_equipamento.json')
+    pd.DataFrame(dados).to_json('db/operational/uso_equipamento.json', orient='records', indent=4, force_ascii=False)
     print("Arquivo 'uso_equipamento.csv' gerado com sucesso.")
 
 if __name__ == "__main__":
