@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+a:hover {
+    color: #23527c;
+}
+
+h1 {
+    color: #337ab7;
+}
+
+h2 {
+    color: #337ab7;
+    font-size: 18px;
+}
+
+h3 {
+    color: #337ab7;
+    font-size: 16px;
+}
+
+p {
+    margin-bottom: 20px;
+    color: #666;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img.lazy-loaded {
+    opacity: 0.5;
+}
+
+/* Add a transition effect for active links */
+a.active {
+    text-decoration: underline;
+}
+
+/* Make the site more accessible */
+input[type="search"] {
+    width: 50%;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+input[type="search"]:focus {
+    outline: none;
+    border-color: #337ab7;
+}
+
+input[type="search"]::placeholder {
+    color: #ccc;
+}
