@@ -1,1602 +1,1602 @@
 [
     {
         "id_despesa":1,
-        "data":1723939200000,
-        "tipo":"Salário",
-        "setor":"Financeiro",
-        "valor":11670.1,
-        "fornecedor":"Teixeira"
+        "data":1718496000000,
+        "tipo":"Energia",
+        "setor":"Logística",
+        "valor":5696.69,
+        "fornecedor":"Câmara"
     },
     {
         "id_despesa":2,
-        "data":1726358400000,
-        "tipo":"Água",
-        "setor":"Logística",
-        "valor":17394.82,
-        "fornecedor":"Nunes"
+        "data":1743292800000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":6812.06,
+        "fornecedor":"Gonçalves Oliveira - EI"
     },
     {
         "id_despesa":3,
-        "data":1724284800000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":19787.46,
-        "fornecedor":"Moura S\/A"
+        "data":1722988800000,
+        "tipo":"Salário",
+        "setor":"Comercial",
+        "valor":6825.58,
+        "fornecedor":"Almeida"
     },
     {
         "id_despesa":4,
-        "data":1725235200000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Produção",
-        "valor":2159.77,
-        "fornecedor":"Barros"
+        "data":1729036800000,
+        "tipo":"Água",
+        "setor":"Comercial",
+        "valor":17942.46,
+        "fornecedor":""
     },
     {
         "id_despesa":5,
-        "data":1738454400000,
-        "tipo":"Internet",
-        "setor":"RH",
-        "valor":7390.2,
-        "fornecedor":"Mendes - EI"
+        "data":1722902400000,
+        "tipo":"Energia",
+        "setor":"Produção",
+        "valor":6839.83,
+        "fornecedor":"Cardoso S\/A"
     },
     {
         "id_despesa":6,
-        "data":1736294400000,
-        "tipo":"Água",
-        "setor":"RH",
-        "valor":5786.35,
-        "fornecedor":"da Rocha Vargas - EI"
+        "data":1737849600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Produção",
+        "valor":17357.06,
+        "fornecedor":"Rezende"
     },
     {
         "id_despesa":7,
-        "data":1722988800000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":12713.59,
-        "fornecedor":"Sá - EI"
+        "data":1733961600000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":2517.1,
+        "fornecedor":"da Luz"
     },
     {
         "id_despesa":8,
-        "data":1723248000000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":11286.99,
-        "fornecedor":"Jesus"
+        "data":1719792000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"RH",
+        "valor":88.79,
+        "fornecedor":"Ferreira"
     },
     {
         "id_despesa":9,
-        "data":1718755200000,
+        "data":1735257600000,
         "tipo":"Energia",
-        "setor":"Produção",
-        "valor":398.2,
-        "fornecedor":"Rodrigues"
+        "setor":"RH",
+        "valor":17966.64,
+        "fornecedor":"Duarte"
     },
     {
         "id_despesa":10,
-        "data":1738108800000,
-        "tipo":"Salário",
-        "setor":"Financeiro",
-        "valor":10511.56,
-        "fornecedor":"Cirino"
+        "data":1734480000000,
+        "tipo":"Internet",
+        "setor":"Comercial",
+        "valor":335.33,
+        "fornecedor":"Ramos"
     },
     {
         "id_despesa":11,
-        "data":1739404800000,
-        "tipo":"Salário",
-        "setor":"Logística",
-        "valor":14855.0,
-        "fornecedor":"Rodrigues"
+        "data":1743638400000,
+        "tipo":"Água",
+        "setor":"Financeiro",
+        "valor":10177.26,
+        "fornecedor":"Almeida Porto S.A."
     },
     {
         "id_despesa":12,
-        "data":1729728000000,
-        "tipo":"Salário",
+        "data":1718841600000,
+        "tipo":"Compra Matéria-prima",
         "setor":"Financeiro",
-        "valor":14020.35,
-        "fornecedor":"Dias"
+        "valor":13354.42,
+        "fornecedor":"Nascimento Nunes Ltda."
     },
     {
         "id_despesa":13,
-        "data":1722297600000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":15504.96,
-        "fornecedor":"Sá"
-    },
-    {
-        "id_despesa":14,
-        "data":1746489600000,
-        "tipo":"Salário",
-        "setor":"Comercial",
-        "valor":10878.01,
-        "fornecedor":"Cassiano"
-    },
-    {
-        "id_despesa":15,
-        "data":1738108800000,
-        "tipo":"Água",
+        "data":1730160000000,
+        "tipo":"Compra Matéria-prima",
         "setor":"Produção",
-        "valor":6450.78,
-        "fornecedor":"Andrade Vieira S.A."
-    },
-    {
-        "id_despesa":16,
-        "data":1738713600000,
-        "tipo":"Salário",
-        "setor":"Logística",
         "valor":"",
         "fornecedor":""
     },
     {
-        "id_despesa":17,
+        "id_despesa":14,
+        "data":1740441600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Produção",
+        "valor":1166.69,
+        "fornecedor":"da Luz Aragão S.A."
+    },
+    {
+        "id_despesa":15,
+        "data":1735257600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Logística",
+        "valor":17703.4,
+        "fornecedor":"Nogueira S\/A"
+    },
+    {
+        "id_despesa":16,
         "data":1718755200000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Logística",
+        "valor":13013.49,
+        "fornecedor":"Barbosa"
+    },
+    {
+        "id_despesa":17,
+        "data":1723075200000,
         "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":585.82,
-        "fornecedor":""
+        "setor":"Comercial",
+        "valor":19704.93,
+        "fornecedor":"Almeida Ltda."
     },
     {
         "id_despesa":18,
-        "data":1725494400000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Produção",
-        "valor":15605.07,
-        "fornecedor":"Viana - ME"
+        "data":1734566400000,
+        "tipo":"Salário",
+        "setor":"RH",
+        "valor":15655.84,
+        "fornecedor":"Leão - ME"
     },
     {
         "id_despesa":19,
-        "data":1717113600000,
+        "data":1723161600000,
         "tipo":"Água",
-        "setor":"RH",
-        "valor":11327.78,
-        "fornecedor":"Cardoso"
+        "setor":"Comercial",
+        "valor":15813.19,
+        "fornecedor":"Macedo"
     },
     {
         "id_despesa":20,
-        "data":1716940800000,
-        "tipo":"Internet",
-        "setor":"Comercial",
-        "valor":6849.85,
-        "fornecedor":"Novaes"
+        "data":1715990400000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Produção",
+        "valor":3244.09,
+        "fornecedor":"Nascimento Ltda."
     },
     {
         "id_despesa":21,
-        "data":1746230400000,
-        "tipo":"Água",
-        "setor":"Produção",
-        "valor":814.96,
-        "fornecedor":"Machado Carvalho S\/A"
+        "data":1724371200000,
+        "tipo":"Salário",
+        "setor":"Financeiro",
+        "valor":4157.74,
+        "fornecedor":"Correia - ME"
     },
     {
         "id_despesa":22,
-        "data":1720396800000,
-        "tipo":"Energia",
-        "setor":"RH",
-        "valor":7317.09,
-        "fornecedor":"Andrade e Filhos"
-    },
-    {
-        "id_despesa":23,
-        "data":1743638400000,
-        "tipo":"Internet",
-        "setor":"Comercial",
-        "valor":12181.89,
-        "fornecedor":"Borges"
-    },
-    {
-        "id_despesa":24,
-        "data":1729123200000,
+        "data":1724803200000,
         "tipo":"Salário",
         "setor":"Financeiro",
-        "valor":8180.55,
+        "valor":13057.94,
         "fornecedor":"Rodrigues"
     },
     {
+        "id_despesa":23,
+        "data":1738281600000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":183416.2,
+        "fornecedor":"Martins"
+    },
+    {
+        "id_despesa":24,
+        "data":1720310400000,
+        "tipo":"Salário",
+        "setor":"Comercial",
+        "valor":16323.94,
+        "fornecedor":"da Rocha"
+    },
+    {
         "id_despesa":25,
-        "data":1728777600000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"RH",
-        "valor":13129.43,
-        "fornecedor":"Vasconcelos"
+        "data":1739232000000,
+        "tipo":"Salário",
+        "setor":"Comercial",
+        "valor":2736.67,
+        "fornecedor":""
     },
     {
         "id_despesa":26,
-        "data":1716076800000,
+        "data":1741910400000,
         "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":10062.76,
-        "fornecedor":"Pimenta"
+        "setor":"Produção",
+        "valor":8244.8,
+        "fornecedor":"Barbosa"
     },
     {
         "id_despesa":27,
         "data":1723420800000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":"",
-        "fornecedor":"Camargo Ltda."
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":13397.73,
+        "fornecedor":"Pastor Cardoso S\/A"
     },
     {
         "id_despesa":28,
-        "data":1740528000000,
-        "tipo":"Água",
+        "data":1717027200000,
+        "tipo":"Internet",
         "setor":"Logística",
-        "valor":16226.08,
-        "fornecedor":"Dias"
+        "valor":3227.39,
+        "fornecedor":"Garcia Gomes S\/A"
     },
     {
         "id_despesa":29,
-        "data":1719100800000,
+        "data":1735430400000,
         "tipo":"Internet",
-        "setor":"Produção",
-        "valor":18045.12,
-        "fornecedor":"Nogueira Silva - ME"
+        "setor":"RH",
+        "valor":7006.87,
+        "fornecedor":"Mendonça S.A."
     },
     {
         "id_despesa":30,
-        "data":1738800000000,
-        "tipo":"Salário",
-        "setor":"Comercial",
-        "valor":2865.12,
-        "fornecedor":"Caldeira"
+        "data":1743379200000,
+        "tipo":"Internet",
+        "setor":"Logística",
+        "valor":644.91,
+        "fornecedor":"Nunes - EI"
     },
     {
         "id_despesa":31,
-        "data":1738195200000,
+        "data":1729555200000,
         "tipo":"Salário",
-        "setor":"Comercial",
-        "valor":11102.85,
-        "fornecedor":"Vieira e Filhos"
+        "setor":"RH",
+        "valor":4365.59,
+        "fornecedor":"Ribeiro"
     },
     {
         "id_despesa":32,
-        "data":1727308800000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":570.52,
-        "fornecedor":"da Mata"
+        "data":1720396800000,
+        "tipo":"Energia",
+        "setor":"Logística",
+        "valor":30832.8,
+        "fornecedor":"Casa Grande Ltda."
     },
     {
         "id_despesa":33,
-        "data":1745539200000,
-        "tipo":"Internet",
+        "data":1728000000000,
+        "tipo":"Água",
         "setor":"Logística",
-        "valor":17704.33,
-        "fornecedor":"Ferreira"
+        "valor":7318.52,
+        "fornecedor":"Novais Mendes S\/A"
     },
     {
         "id_despesa":34,
-        "data":1741046400000,
-        "tipo":"Salário",
+        "data":1740528000000,
+        "tipo":"Energia",
         "setor":"Logística",
-        "valor":14585.19,
-        "fornecedor":"da Rocha Pimenta Ltda."
+        "valor":"",
+        "fornecedor":"Souza Melo e Filhos"
     },
     {
         "id_despesa":35,
-        "data":1740787200000,
-        "tipo":"Energia",
-        "setor":"Logística",
-        "valor":7343.63,
-        "fornecedor":"da Rosa"
+        "data":1738195200000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":8771.69,
+        "fornecedor":"Barbosa"
     },
     {
         "id_despesa":36,
-        "data":1740960000000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":10928.89,
-        "fornecedor":"Freitas - EI"
+        "data":1717804800000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Comercial",
+        "valor":2474.24,
+        "fornecedor":"Rocha da Cunha - EI"
     },
     {
         "id_despesa":37,
-        "data":1731110400000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":15462.28,
-        "fornecedor":"Pastor S\/A"
+        "data":1730505600000,
+        "tipo":"Energia",
+        "setor":"Logística",
+        "valor":7508.37,
+        "fornecedor":""
     },
     {
         "id_despesa":38,
-        "data":1738800000000,
-        "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":"",
-        "fornecedor":"Nogueira"
-    },
-    {
-        "id_despesa":39,
-        "data":1724198400000,
-        "tipo":"Internet",
-        "setor":"Produção",
-        "valor":2811.55,
-        "fornecedor":"Almeida Cassiano Ltda."
-    },
-    {
-        "id_despesa":40,
-        "data":1733011200000,
-        "tipo":"Água",
-        "setor":"Comercial",
-        "valor":16353.44,
-        "fornecedor":"Cardoso"
-    },
-    {
-        "id_despesa":41,
-        "data":1742256000000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":18495.95,
-        "fornecedor":"Vieira Melo Ltda."
-    },
-    {
-        "id_despesa":42,
-        "data":1733702400000,
-        "tipo":"Energia",
-        "setor":"Logística",
-        "valor":15122.3,
-        "fornecedor":"Ramos"
-    },
-    {
-        "id_despesa":43,
-        "data":1741564800000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":2217.06,
-        "fornecedor":"Albuquerque S.A."
-    },
-    {
-        "id_despesa":44,
-        "data":1738540800000,
-        "tipo":"Internet",
-        "setor":"Comercial",
-        "valor":14763.4,
-        "fornecedor":"Montenegro"
-    },
-    {
-        "id_despesa":45,
-        "data":1726704000000,
-        "tipo":"Salário",
-        "setor":"Financeiro",
-        "valor":1161.79,
-        "fornecedor":"Nunes"
-    },
-    {
-        "id_despesa":46,
-        "data":1723593600000,
-        "tipo":"Internet",
-        "setor":"Comercial",
-        "valor":18025.9,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":47,
-        "data":1723766400000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":16620.24,
-        "fornecedor":"da Cruz"
-    },
-    {
-        "id_despesa":48,
-        "data":1726444800000,
-        "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":16557.45,
-        "fornecedor":"Macedo Cardoso - ME"
-    },
-    {
-        "id_despesa":49,
-        "data":1745020800000,
-        "tipo":"Internet",
-        "setor":"Logística",
-        "valor":7099.12,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":50,
-        "data":1721433600000,
-        "tipo":"Energia",
-        "setor":"Logística",
-        "valor":9967.67,
-        "fornecedor":"Jesus - ME"
-    },
-    {
-        "id_despesa":51,
-        "data":1724976000000,
-        "tipo":"Água",
-        "setor":"Logística",
-        "valor":14058.62,
-        "fornecedor":"Freitas"
-    },
-    {
-        "id_despesa":52,
-        "data":1734652800000,
-        "tipo":"Água",
-        "setor":"Logística",
-        "valor":2001.86,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":53,
-        "data":1742860800000,
-        "tipo":"Internet",
-        "setor":"Financeiro",
-        "valor":1544.1,
-        "fornecedor":"Albuquerque"
-    },
-    {
-        "id_despesa":54,
-        "data":1728777600000,
-        "tipo":"Salário",
-        "setor":"Comercial",
-        "valor":1396.9,
-        "fornecedor":"Gonçalves"
-    },
-    {
-        "id_despesa":55,
-        "data":1745712000000,
-        "tipo":"Salário",
-        "setor":"Produção",
-        "valor":12514.07,
-        "fornecedor":"Brito"
-    },
-    {
-        "id_despesa":56,
-        "data":1740528000000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":14002.1,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":57,
-        "data":1717027200000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Comercial",
-        "valor":2580.04,
-        "fornecedor":"Melo"
-    },
-    {
-        "id_despesa":58,
-        "data":1736985600000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Produção",
-        "valor":10157.53,
-        "fornecedor":"Gomes - ME"
-    },
-    {
-        "id_despesa":59,
-        "data":1737072000000,
-        "tipo":"Energia",
-        "setor":"RH",
-        "valor":9420.87,
-        "fornecedor":"Fonseca Almeida - ME"
-    },
-    {
-        "id_despesa":60,
-        "data":1735776000000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":190090.0,
-        "fornecedor":"Fogaça"
-    },
-    {
-        "id_despesa":61,
-        "data":1741651200000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":7465.38,
-        "fornecedor":"Andrade"
-    },
-    {
-        "id_despesa":62,
-        "data":1724716800000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":5058.54,
-        "fornecedor":"Mendes Ribeiro S\/A"
-    },
-    {
-        "id_despesa":63,
-        "data":1725667200000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":14912.48,
-        "fornecedor":"Montenegro"
-    },
-    {
-        "id_despesa":64,
-        "data":1741824000000,
-        "tipo":"Água",
-        "setor":"Comercial",
-        "valor":9944.07,
-        "fornecedor":"Costa"
-    },
-    {
-        "id_despesa":65,
-        "data":1728777600000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Logística",
-        "valor":11993.61,
-        "fornecedor":"Oliveira"
-    },
-    {
-        "id_despesa":66,
-        "data":1728172800000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"RH",
-        "valor":12754.6,
-        "fornecedor":"Carvalho"
-    },
-    {
-        "id_despesa":67,
-        "data":1735862400000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":11939.42,
-        "fornecedor":"Silva"
-    },
-    {
-        "id_despesa":68,
-        "data":1730160000000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Comercial",
-        "valor":45438.4,
-        "fornecedor":"Pastor S\/A"
-    },
-    {
-        "id_despesa":69,
-        "data":1741305600000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":15100.76,
-        "fornecedor":"Andrade"
-    },
-    {
-        "id_despesa":70,
-        "data":1745280000000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":9473.71,
-        "fornecedor":"Leão Montenegro - EI"
-    },
-    {
-        "id_despesa":71,
-        "data":1730160000000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":11648.28,
-        "fornecedor":"Rodrigues Rios e Filhos"
-    },
-    {
-        "id_despesa":72,
-        "data":1738454400000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":382.03,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":73,
-        "data":1745712000000,
-        "tipo":"Internet",
-        "setor":"RH",
-        "valor":124.41,
-        "fornecedor":"Cavalcante S\/A"
-    },
-    {
-        "id_despesa":74,
-        "data":1725753600000,
-        "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":"",
-        "fornecedor":"Rocha Pastor Ltda."
-    },
-    {
-        "id_despesa":75,
-        "data":1720396800000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":12467.78,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":76,
-        "data":1724716800000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"RH",
-        "valor":13833.9,
-        "fornecedor":"Sales da Luz e Filhos"
-    },
-    {
-        "id_despesa":77,
-        "data":1733616000000,
-        "tipo":"Salário",
-        "setor":"Comercial",
-        "valor":14771.55,
-        "fornecedor":"Lopes Rezende - EI"
-    },
-    {
-        "id_despesa":78,
-        "data":1720310400000,
-        "tipo":"Água",
-        "setor":"Comercial",
-        "valor":12378.33,
-        "fornecedor":"Andrade Cavalcanti e Filhos"
-    },
-    {
-        "id_despesa":79,
-        "data":1718755200000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Financeiro",
-        "valor":12485.88,
-        "fornecedor":"da Conceição"
-    },
-    {
-        "id_despesa":80,
-        "data":1738540800000,
-        "tipo":"Água",
-        "setor":"Produção",
-        "valor":15302.57,
-        "fornecedor":"Albuquerque"
-    },
-    {
-        "id_despesa":81,
-        "data":1737417600000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":19009.87,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":82,
-        "data":1745539200000,
-        "tipo":"Água",
-        "setor":"Comercial",
-        "valor":7567.94,
-        "fornecedor":"da Rocha - ME"
-    },
-    {
-        "id_despesa":83,
-        "data":1739923200000,
-        "tipo":"Energia",
-        "setor":"Produção",
-        "valor":4637.51,
-        "fornecedor":"Martins Porto S.A."
-    },
-    {
-        "id_despesa":84,
-        "data":1725148800000,
-        "tipo":"Internet",
-        "setor":"Logística",
-        "valor":7786.15,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":85,
-        "data":1718668800000,
-        "tipo":"Salário",
-        "setor":"Financeiro",
-        "valor":5229.25,
-        "fornecedor":"Rios Pereira Ltda."
-    },
-    {
-        "id_despesa":86,
-        "data":1742515200000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":1259.12,
-        "fornecedor":"Viana Martins - ME"
-    },
-    {
-        "id_despesa":87,
-        "data":1732233600000,
-        "tipo":"Água",
-        "setor":"Logística",
-        "valor":18061.42,
-        "fornecedor":"Correia"
-    },
-    {
-        "id_despesa":88,
-        "data":1723420800000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Logística",
-        "valor":1017.03,
-        "fornecedor":"Jesus Viana S\/A"
-    },
-    {
-        "id_despesa":89,
-        "data":1744934400000,
-        "tipo":"Energia",
-        "setor":"Logística",
-        "valor":12768.0,
-        "fornecedor":"Nogueira"
-    },
-    {
-        "id_despesa":90,
-        "data":1734912000000,
-        "tipo":"Energia",
-        "setor":"RH",
-        "valor":17475.57,
-        "fornecedor":"Nogueira Rodrigues S\/A"
-    },
-    {
-        "id_despesa":91,
-        "data":1717891200000,
-        "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":"",
-        "fornecedor":""
-    },
-    {
-        "id_despesa":92,
-        "data":1719446400000,
-        "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":11478.93,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":93,
-        "data":1730419200000,
-        "tipo":"Salário",
-        "setor":"Financeiro",
-        "valor":4389.2,
-        "fornecedor":"Camargo - ME"
-    },
-    {
-        "id_despesa":94,
-        "data":1744329600000,
-        "tipo":"Energia",
-        "setor":"RH",
-        "valor":6312.57,
-        "fornecedor":"Novais"
-    },
-    {
-        "id_despesa":95,
-        "data":1726617600000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":15524.0,
-        "fornecedor":"Novaes Ltda."
-    },
-    {
-        "id_despesa":96,
-        "data":1718755200000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Produção",
-        "valor":1221.38,
-        "fornecedor":"Nunes S.A."
-    },
-    {
-        "id_despesa":97,
-        "data":1715990400000,
-        "tipo":"Energia",
-        "setor":"Logística",
-        "valor":11497.0,
-        "fornecedor":"Oliveira - EI"
-    },
-    {
-        "id_despesa":98,
-        "data":1725667200000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Logística",
-        "valor":16618.39,
-        "fornecedor":"Alves - ME"
-    },
-    {
-        "id_despesa":99,
         "data":1737504000000,
-        "tipo":"Internet",
-        "setor":"RH",
-        "valor":1478.93,
-        "fornecedor":"da Rocha Guerra S\/A"
-    },
-    {
-        "id_despesa":100,
-        "data":1730246400000,
         "tipo":"Compra Matéria-prima",
-        "setor":"Produção",
-        "valor":8574.59,
+        "setor":"Comercial",
+        "valor":3335.27,
         "fornecedor":"Viana"
     },
     {
-        "id_despesa":101,
-        "data":1724889600000,
-        "tipo":"Internet",
-        "setor":"Produção",
-        "valor":4267.79,
-        "fornecedor":"Borges - EI"
-    },
-    {
-        "id_despesa":102,
-        "data":1743984000000,
-        "tipo":"Salário",
-        "setor":"RH",
-        "valor":10186.55,
-        "fornecedor":"Siqueira e Filhos"
-    },
-    {
-        "id_despesa":103,
-        "data":1717632000000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":6249.15,
-        "fornecedor":"Martins"
-    },
-    {
-        "id_despesa":104,
-        "data":1730246400000,
-        "tipo":"Energia",
-        "setor":"Logística",
-        "valor":13418.44,
-        "fornecedor":"Cardoso"
-    },
-    {
-        "id_despesa":105,
-        "data":1727481600000,
-        "tipo":"Água",
-        "setor":"RH",
-        "valor":2839.29,
-        "fornecedor":"Fogaça"
-    },
-    {
-        "id_despesa":106,
-        "data":1715126400000,
-        "tipo":"Salário",
-        "setor":"Logística",
-        "valor":17022.0,
-        "fornecedor":"Machado S.A."
-    },
-    {
-        "id_despesa":107,
-        "data":1718409600000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"RH",
-        "valor":110.25,
-        "fornecedor":"Fogaça - EI"
-    },
-    {
-        "id_despesa":108,
-        "data":1734739200000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":14151.6,
-        "fornecedor":"Peixoto"
-    },
-    {
-        "id_despesa":109,
-        "data":1740873600000,
-        "tipo":"Internet",
-        "setor":"Financeiro",
-        "valor":11835.53,
-        "fornecedor":"da Rosa"
-    },
-    {
-        "id_despesa":110,
-        "data":1740182400000,
-        "tipo":"Internet",
-        "setor":"Comercial",
-        "valor":"",
-        "fornecedor":"Albuquerque Rios - ME"
-    },
-    {
-        "id_despesa":111,
-        "data":1731542400000,
-        "tipo":"Internet",
-        "setor":"Produção",
-        "valor":3302.72,
-        "fornecedor":"Almeida"
-    },
-    {
-        "id_despesa":112,
-        "data":1726099200000,
-        "tipo":"Salário",
-        "setor":"Produção",
-        "valor":2490.62,
-        "fornecedor":"Silveira"
-    },
-    {
-        "id_despesa":113,
-        "data":1745452800000,
-        "tipo":"Internet",
-        "setor":"RH",
-        "valor":1124.91,
-        "fornecedor":"Vargas"
-    },
-    {
-        "id_despesa":114,
-        "data":1740787200000,
-        "tipo":"Água",
-        "setor":"Produção",
-        "valor":11116.96,
-        "fornecedor":"Rocha"
-    },
-    {
-        "id_despesa":115,
-        "data":1739664000000,
-        "tipo":"Água",
-        "setor":"Comercial",
-        "valor":2130.71,
-        "fornecedor":"Pacheco"
-    },
-    {
-        "id_despesa":116,
-        "data":1746057600000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"RH",
-        "valor":17243.94,
-        "fornecedor":"Cardoso - ME"
-    },
-    {
-        "id_despesa":117,
-        "data":1742083200000,
-        "tipo":"Internet",
-        "setor":"Logística",
-        "valor":8964.76,
-        "fornecedor":"Nogueira"
-    },
-    {
-        "id_despesa":118,
-        "data":1718496000000,
-        "tipo":"Internet",
-        "setor":"Logística",
-        "valor":8827.62,
-        "fornecedor":"Sá"
-    },
-    {
-        "id_despesa":119,
-        "data":1729209600000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Produção",
-        "valor":3908.4,
-        "fornecedor":"Santos - ME"
-    },
-    {
-        "id_despesa":120,
-        "data":1739750400000,
-        "tipo":"Água",
-        "setor":"RH",
-        "valor":16609.02,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":121,
-        "data":1719360000000,
-        "tipo":"Internet",
-        "setor":"Comercial",
-        "valor":16317.04,
-        "fornecedor":"Farias - EI"
-    },
-    {
-        "id_despesa":122,
-        "data":1718841600000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"RH",
-        "valor":6990.84,
-        "fornecedor":"Gonçalves"
-    },
-    {
-        "id_despesa":123,
-        "data":1729641600000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Logística",
-        "valor":15433.59,
-        "fornecedor":""
-    },
-    {
-        "id_despesa":124,
-        "data":1746230400000,
-        "tipo":"Água",
-        "setor":"Produção",
-        "valor":"",
-        "fornecedor":"da Cruz"
-    },
-    {
-        "id_despesa":125,
-        "data":1742428800000,
-        "tipo":"Água",
-        "setor":"Produção",
-        "valor":8845.4,
-        "fornecedor":"Cardoso - ME"
-    },
-    {
-        "id_despesa":126,
-        "data":1715558400000,
-        "tipo":"Salário",
-        "setor":"RH",
-        "valor":15974.01,
-        "fornecedor":"Farias"
-    },
-    {
-        "id_despesa":127,
+        "id_despesa":39,
         "data":1729728000000,
-        "tipo":"Energia",
-        "setor":"Logística",
-        "valor":39788.7,
-        "fornecedor":"Fonseca S\/A"
-    },
-    {
-        "id_despesa":128,
-        "data":1728345600000,
-        "tipo":"Água",
-        "setor":"Logística",
-        "valor":10079.33,
-        "fornecedor":"Moura e Filhos"
-    },
-    {
-        "id_despesa":129,
-        "data":1729555200000,
         "tipo":"Internet",
-        "setor":"Comercial",
-        "valor":2048.67,
-        "fornecedor":"Dias S.A."
-    },
-    {
-        "id_despesa":130,
-        "data":1725235200000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":14398.71,
-        "fornecedor":"Ferreira - ME"
-    },
-    {
-        "id_despesa":131,
-        "data":1718841600000,
-        "tipo":"Água",
         "setor":"Logística",
-        "valor":19582.17,
-        "fornecedor":"Costa"
-    },
-    {
-        "id_despesa":132,
-        "data":1726185600000,
-        "tipo":"Salário",
-        "setor":"RH",
-        "valor":10108.25,
-        "fornecedor":"Cavalcanti"
-    },
-    {
-        "id_despesa":133,
-        "data":1739923200000,
-        "tipo":"Internet",
-        "setor":"RH",
-        "valor":5593.16,
-        "fornecedor":"Ramos S.A."
-    },
-    {
-        "id_despesa":134,
-        "data":1719100800000,
-        "tipo":"Internet",
-        "setor":"RH",
-        "valor":9888.43,
-        "fornecedor":"Pimenta - EI"
-    },
-    {
-        "id_despesa":135,
-        "data":1718755200000,
-        "tipo":"Salário",
-        "setor":"RH",
-        "valor":15776.4,
+        "valor":7906.07,
         "fornecedor":""
     },
     {
-        "id_despesa":136,
-        "data":1742860800000,
-        "tipo":"Energia",
-        "setor":"RH",
-        "valor":8073.66,
-        "fornecedor":"Ferreira e Filhos"
-    },
-    {
-        "id_despesa":137,
-        "data":1722643200000,
+        "id_despesa":40,
+        "data":1726012800000,
         "tipo":"Salário",
-        "setor":"RH",
-        "valor":6052.29,
-        "fornecedor":"Sá"
-    },
-    {
-        "id_despesa":138,
-        "data":1734739200000,
-        "tipo":"Água",
         "setor":"Produção",
-        "valor":18719.07,
-        "fornecedor":"Aragão"
+        "valor":17669.46,
+        "fornecedor":"da Costa"
     },
     {
-        "id_despesa":139,
-        "data":1745193600000,
+        "id_despesa":41,
+        "data":1730505600000,
+        "tipo":"Salário",
+        "setor":"Comercial",
+        "valor":4605.45,
+        "fornecedor":"Machado Rocha - EI"
+    },
+    {
+        "id_despesa":42,
+        "data":1739491200000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Comercial",
+        "valor":6042.5,
+        "fornecedor":"Souza Ltda."
+    },
+    {
+        "id_despesa":43,
+        "data":1722297600000,
         "tipo":"Água",
         "setor":"Financeiro",
-        "valor":16028.2,
-        "fornecedor":"Montenegro Santos S\/A"
+        "valor":4737.6,
+        "fornecedor":"Sampaio"
     },
     {
-        "id_despesa":140,
-        "data":1719446400000,
+        "id_despesa":44,
+        "data":1720310400000,
         "tipo":"Internet",
         "setor":"Financeiro",
-        "valor":"",
-        "fornecedor":"Alves e Filhos"
+        "valor":17665.8,
+        "fornecedor":"Pires"
     },
     {
-        "id_despesa":141,
-        "data":1742860800000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Produção",
-        "valor":17633.26,
-        "fornecedor":"da Cunha"
-    },
-    {
-        "id_despesa":142,
+        "id_despesa":45,
         "data":1717804800000,
-        "tipo":"Energia",
-        "setor":"RH",
-        "valor":103679.4,
-        "fornecedor":"Viana - ME"
-    },
-    {
-        "id_despesa":143,
-        "data":1743897600000,
-        "tipo":"Salário",
-        "setor":"Financeiro",
-        "valor":6803.42,
-        "fornecedor":"Farias"
-    },
-    {
-        "id_despesa":144,
-        "data":1742083200000,
-        "tipo":"Água",
-        "setor":"Produção",
-        "valor":19363.1,
-        "fornecedor":"Barros Castro - ME"
-    },
-    {
-        "id_despesa":145,
-        "data":1715299200000,
-        "tipo":"Energia",
-        "setor":"Produção",
-        "valor":17949.97,
-        "fornecedor":"Macedo Farias e Filhos"
-    },
-    {
-        "id_despesa":146,
-        "data":1736726400000,
-        "tipo":"Água",
+        "tipo":"Internet",
         "setor":"Comercial",
-        "valor":12982.56,
-        "fornecedor":"Nunes"
+        "valor":6089.96,
+        "fornecedor":"Farias Nunes - ME"
     },
     {
-        "id_despesa":147,
-        "data":1734825600000,
-        "tipo":"Água",
-        "setor":"Comercial",
-        "valor":18391.28,
-        "fornecedor":"Nogueira"
-    },
-    {
-        "id_despesa":148,
-        "data":1721088000000,
-        "tipo":"Salário",
-        "setor":"Comercial",
-        "valor":101064.7,
-        "fornecedor":"Sales - EI"
-    },
-    {
-        "id_despesa":149,
-        "data":1720310400000,
+        "id_despesa":46,
+        "data":1731369600000,
         "tipo":"Compra Matéria-prima",
-        "setor":"Logística",
-        "valor":10273.8,
-        "fornecedor":"Siqueira Brito S\/A"
+        "setor":"Produção",
+        "valor":19200.37,
+        "fornecedor":"Lopes"
     },
     {
-        "id_despesa":150,
-        "data":1729641600000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":1323.87,
-        "fornecedor":"da Cruz"
-    },
-    {
-        "id_despesa":151,
-        "data":1721779200000,
-        "tipo":"Energia",
+        "id_despesa":47,
+        "data":1731628800000,
+        "tipo":"Salário",
         "setor":"Comercial",
-        "valor":11345.68,
-        "fornecedor":"Alves"
-    },
-    {
-        "id_despesa":152,
-        "data":1729036800000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":12213.03,
+        "valor":460.79,
         "fornecedor":"Nogueira"
     },
     {
-        "id_despesa":153,
+        "id_despesa":48,
         "data":1733097600000,
         "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":73.13,
-        "fornecedor":"Sá"
+        "setor":"Comercial",
+        "valor":3987.42,
+        "fornecedor":"da Luz"
     },
     {
-        "id_despesa":154,
-        "data":1736294400000,
-        "tipo":"Internet",
+        "id_despesa":49,
+        "data":1730160000000,
+        "tipo":"Compra Matéria-prima",
         "setor":"Financeiro",
-        "valor":4089.79,
-        "fornecedor":""
+        "valor":11559.31,
+        "fornecedor":"da Cruz Farias Ltda."
     },
     {
-        "id_despesa":155,
-        "data":1732060800000,
-        "tipo":"Salário",
-        "setor":"Logística",
-        "valor":9150.05,
+        "id_despesa":50,
+        "data":1738972800000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":12293.94,
         "fornecedor":"Pereira"
     },
     {
-        "id_despesa":156,
-        "data":1717718400000,
-        "tipo":"Energia",
-        "setor":"RH",
-        "valor":16694.14,
-        "fornecedor":"Macedo Azevedo Ltda."
-    },
-    {
-        "id_despesa":157,
-        "data":1722038400000,
+        "id_despesa":51,
+        "data":1722729600000,
         "tipo":"Compra Matéria-prima",
-        "setor":"Comercial",
-        "valor":5352.15,
-        "fornecedor":"Câmara"
-    },
-    {
-        "id_despesa":158,
-        "data":1723075200000,
-        "tipo":"Energia",
-        "setor":"Produção",
-        "valor":9099.54,
-        "fornecedor":"Rodrigues"
-    },
-    {
-        "id_despesa":159,
-        "data":1722038400000,
-        "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":8751.02,
-        "fornecedor":"da Rocha Ltda."
-    },
-    {
-        "id_despesa":160,
-        "data":1722384000000,
-        "tipo":"Água",
-        "setor":"Comercial",
-        "valor":1884.31,
-        "fornecedor":"Pastor"
-    },
-    {
-        "id_despesa":161,
-        "data":1741737600000,
-        "tipo":"Energia",
-        "setor":"Produção",
-        "valor":96075.5,
-        "fornecedor":"Santos S\/A"
-    },
-    {
-        "id_despesa":162,
-        "data":1715990400000,
-        "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":2465.76,
-        "fornecedor":"Moraes"
-    },
-    {
-        "id_despesa":163,
-        "data":1723075200000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":12551.21,
-        "fornecedor":"Cardoso"
-    },
-    {
-        "id_despesa":164,
-        "data":1725494400000,
-        "tipo":"Salário",
         "setor":"Logística",
-        "valor":13777.95,
-        "fornecedor":"Pimenta"
+        "valor":107070.0,
+        "fornecedor":"Gomes Barros e Filhos"
     },
     {
-        "id_despesa":165,
-        "data":1721692800000,
+        "id_despesa":52,
+        "data":1720310400000,
         "tipo":"Compra Matéria-prima",
-        "setor":"RH",
-        "valor":12352.28,
-        "fornecedor":"Nunes"
+        "setor":"Produção",
+        "valor":8106.96,
+        "fornecedor":"Borges e Filhos"
     },
     {
-        "id_despesa":166,
-        "data":1745798400000,
+        "id_despesa":53,
+        "data":1728259200000,
+        "tipo":"Água",
+        "setor":"RH",
+        "valor":12235.91,
+        "fornecedor":"Novaes"
+    },
+    {
+        "id_despesa":54,
+        "data":1736035200000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":8119.7,
+        "fornecedor":"Moraes - EI"
+    },
+    {
+        "id_despesa":55,
+        "data":1736899200000,
+        "tipo":"Internet",
+        "setor":"RH",
+        "valor":7936.73,
+        "fornecedor":""
+    },
+    {
+        "id_despesa":56,
+        "data":1723680000000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":14636.39,
+        "fornecedor":"Monteiro"
+    },
+    {
+        "id_despesa":57,
+        "data":1732320000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Logística",
+        "valor":"",
+        "fornecedor":"Andrade S\/A"
+    },
+    {
+        "id_despesa":58,
+        "data":1722729600000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":13243.4,
+        "fornecedor":"Cavalcante Cavalcante S\/A"
+    },
+    {
+        "id_despesa":59,
+        "data":1726531200000,
+        "tipo":"Salário",
+        "setor":"Produção",
+        "valor":34297.9,
+        "fornecedor":"Cardoso Ltda."
+    },
+    {
+        "id_despesa":60,
+        "data":1725494400000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Logística",
+        "valor":1742.65,
+        "fornecedor":"Silveira"
+    },
+    {
+        "id_despesa":61,
+        "data":1736035200000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":18202.39,
+        "fornecedor":"Melo"
+    },
+    {
+        "id_despesa":62,
+        "data":1736035200000,
+        "tipo":"Água",
+        "setor":"RH",
+        "valor":17011.57,
+        "fornecedor":"Ribeiro - ME"
+    },
+    {
+        "id_despesa":63,
+        "data":1729036800000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":4239.62,
+        "fornecedor":"Vasconcelos S.A."
+    },
+    {
+        "id_despesa":64,
+        "data":1715385600000,
+        "tipo":"Salário",
+        "setor":"RH",
+        "valor":7960.86,
+        "fornecedor":"Lima"
+    },
+    {
+        "id_despesa":65,
+        "data":1729296000000,
         "tipo":"Energia",
         "setor":"Comercial",
-        "valor":10291.67,
+        "valor":19500.46,
+        "fornecedor":"Peixoto"
+    },
+    {
+        "id_despesa":66,
+        "data":1729209600000,
+        "tipo":"Energia",
+        "setor":"Financeiro",
+        "valor":16874.05,
+        "fornecedor":"da Luz"
+    },
+    {
+        "id_despesa":67,
+        "data":1735344000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Comercial",
+        "valor":14550.6,
+        "fornecedor":"Macedo Brito S.A."
+    },
+    {
+        "id_despesa":68,
+        "data":1734825600000,
+        "tipo":"Energia",
+        "setor":"Produção",
+        "valor":13768.91,
+        "fornecedor":"Pinto - EI"
+    },
+    {
+        "id_despesa":69,
+        "data":1734739200000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":12603.92,
         "fornecedor":"Gonçalves"
     },
     {
-        "id_despesa":167,
-        "data":1720828800000,
+        "id_despesa":70,
+        "data":1730851200000,
         "tipo":"Energia",
         "setor":"Financeiro",
-        "valor":15065.96,
-        "fornecedor":"Teixeira Costa - EI"
+        "valor":3147.99,
+        "fornecedor":"Casa Grande Fogaça Ltda."
+    },
+    {
+        "id_despesa":71,
+        "data":1727827200000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Logística",
+        "valor":3040.02,
+        "fornecedor":"Melo"
+    },
+    {
+        "id_despesa":72,
+        "data":1742169600000,
+        "tipo":"Água",
+        "setor":"Financeiro",
+        "valor":18269.44,
+        "fornecedor":"da Mota"
+    },
+    {
+        "id_despesa":73,
+        "data":1732147200000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":7597.05,
+        "fornecedor":"Costa - ME"
+    },
+    {
+        "id_despesa":74,
+        "data":1736553600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Comercial",
+        "valor":18191.94,
+        "fornecedor":"Pacheco - EI"
+    },
+    {
+        "id_despesa":75,
+        "data":1739836800000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":12448.63,
+        "fornecedor":"da Cruz"
+    },
+    {
+        "id_despesa":76,
+        "data":1728950400000,
+        "tipo":"Água",
+        "setor":"Logística",
+        "valor":2819.61,
+        "fornecedor":"Sá"
+    },
+    {
+        "id_despesa":77,
+        "data":1722816000000,
+        "tipo":"Salário",
+        "setor":"Logística",
+        "valor":13975.14,
+        "fornecedor":"Pastor - ME"
+    },
+    {
+        "id_despesa":78,
+        "data":1736035200000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":6357.88,
+        "fornecedor":"Fernandes e Filhos"
+    },
+    {
+        "id_despesa":79,
+        "data":1746230400000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":10582.79,
+        "fornecedor":"Rocha Ltda."
+    },
+    {
+        "id_despesa":80,
+        "data":1726358400000,
+        "tipo":"Salário",
+        "setor":"RH",
+        "valor":13680.22,
+        "fornecedor":"Vieira S.A."
+    },
+    {
+        "id_despesa":81,
+        "data":1731974400000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":18827.55,
+        "fornecedor":"das Neves"
+    },
+    {
+        "id_despesa":82,
+        "data":1733097600000,
+        "tipo":"Energia",
+        "setor":"Produção",
+        "valor":19331.56,
+        "fornecedor":"Cunha Câmara Ltda."
+    },
+    {
+        "id_despesa":83,
+        "data":1734825600000,
+        "tipo":"Internet",
+        "setor":"Logística",
+        "valor":18209.0,
+        "fornecedor":"Vieira"
+    },
+    {
+        "id_despesa":84,
+        "data":1741132800000,
+        "tipo":"Internet",
+        "setor":"RH",
+        "valor":16692.99,
+        "fornecedor":"Pinto"
+    },
+    {
+        "id_despesa":85,
+        "data":1725926400000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":424.14,
+        "fornecedor":"Cassiano - ME"
+    },
+    {
+        "id_despesa":86,
+        "data":1741132800000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":9805.48,
+        "fornecedor":"Viana S\/A"
+    },
+    {
+        "id_despesa":87,
+        "data":1724544000000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":9814.57,
+        "fornecedor":"Pastor Duarte - ME"
+    },
+    {
+        "id_despesa":88,
+        "data":1725494400000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":13126.38,
+        "fornecedor":"Marques - ME"
+    },
+    {
+        "id_despesa":89,
+        "data":1718064000000,
+        "tipo":"Água",
+        "setor":"RH",
+        "valor":7367.82,
+        "fornecedor":"Pinto S.A."
+    },
+    {
+        "id_despesa":90,
+        "data":1741996800000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":16914.32,
+        "fornecedor":"Borges"
+    },
+    {
+        "id_despesa":91,
+        "data":1738886400000,
+        "tipo":"Energia",
+        "setor":"Produção",
+        "valor":742.06,
+        "fornecedor":"Vieira S\/A"
+    },
+    {
+        "id_despesa":92,
+        "data":1725235200000,
+        "tipo":"Energia",
+        "setor":"Financeiro",
+        "valor":5153.46,
+        "fornecedor":"Nunes Rodrigues - EI"
+    },
+    {
+        "id_despesa":93,
+        "data":1714953600000,
+        "tipo":"Salário",
+        "setor":"RH",
+        "valor":5824.87,
+        "fornecedor":"Cirino - ME"
+    },
+    {
+        "id_despesa":94,
+        "data":1743638400000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":10814.44,
+        "fornecedor":"Leão"
+    },
+    {
+        "id_despesa":95,
+        "data":1741046400000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"RH",
+        "valor":14757.17,
+        "fornecedor":"Abreu S\/A"
+    },
+    {
+        "id_despesa":96,
+        "data":1727568000000,
+        "tipo":"Internet",
+        "setor":"Produção",
+        "valor":18252.58,
+        "fornecedor":"Araújo Novaes e Filhos"
+    },
+    {
+        "id_despesa":97,
+        "data":1742428800000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"RH",
+        "valor":382.26,
+        "fornecedor":"Andrade e Filhos"
+    },
+    {
+        "id_despesa":98,
+        "data":1715472000000,
+        "tipo":"Internet",
+        "setor":"Produção",
+        "valor":3247.06,
+        "fornecedor":"Castro Pereira S.A."
+    },
+    {
+        "id_despesa":99,
+        "data":1732320000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"RH",
+        "valor":17594.62,
+        "fornecedor":"Garcia S\/A"
+    },
+    {
+        "id_despesa":100,
+        "data":1724889600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Financeiro",
+        "valor":18104.33,
+        "fornecedor":"Fernandes S\/A"
+    },
+    {
+        "id_despesa":101,
+        "data":1733443200000,
+        "tipo":"Internet",
+        "setor":"Comercial",
+        "valor":17795.11,
+        "fornecedor":""
+    },
+    {
+        "id_despesa":102,
+        "data":1715385600000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":2932.97,
+        "fornecedor":"Aparecida"
+    },
+    {
+        "id_despesa":103,
+        "data":1742688000000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":2527.59,
+        "fornecedor":"Vieira Pires e Filhos"
+    },
+    {
+        "id_despesa":104,
+        "data":1720742400000,
+        "tipo":"Água",
+        "setor":"Financeiro",
+        "valor":101.81,
+        "fornecedor":"da Paz Novaes Ltda."
+    },
+    {
+        "id_despesa":105,
+        "data":1732233600000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":4096.64,
+        "fornecedor":"Freitas"
+    },
+    {
+        "id_despesa":106,
+        "data":1720656000000,
+        "tipo":"Salário",
+        "setor":"Financeiro",
+        "valor":2174.66,
+        "fornecedor":"Correia Gonçalves S.A."
+    },
+    {
+        "id_despesa":107,
+        "data":1738972800000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":19187.08,
+        "fornecedor":"Cardoso"
+    },
+    {
+        "id_despesa":108,
+        "data":1743033600000,
+        "tipo":"Água",
+        "setor":"Financeiro",
+        "valor":14440.6,
+        "fornecedor":"Pastor"
+    },
+    {
+        "id_despesa":109,
+        "data":1729555200000,
+        "tipo":"Salário",
+        "setor":"RH",
+        "valor":16362.08,
+        "fornecedor":"da Mata"
+    },
+    {
+        "id_despesa":110,
+        "data":1721433600000,
+        "tipo":"Energia",
+        "setor":"Financeiro",
+        "valor":6589.28,
+        "fornecedor":"Carvalho - ME"
+    },
+    {
+        "id_despesa":111,
+        "data":1726358400000,
+        "tipo":"Internet",
+        "setor":"Logística",
+        "valor":9452.39,
+        "fornecedor":"Sales"
+    },
+    {
+        "id_despesa":112,
+        "data":1742688000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Logística",
+        "valor":10041.77,
+        "fornecedor":"Sousa"
+    },
+    {
+        "id_despesa":113,
+        "data":1736726400000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":17180.79,
+        "fornecedor":"Montenegro"
+    },
+    {
+        "id_despesa":114,
+        "data":1722729600000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":122791.6,
+        "fornecedor":"Pinto"
+    },
+    {
+        "id_despesa":115,
+        "data":1739318400000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Logística",
+        "valor":2660.41,
+        "fornecedor":"Costela"
+    },
+    {
+        "id_despesa":116,
+        "data":1729382400000,
+        "tipo":"Salário",
+        "setor":"Logística",
+        "valor":1748.28,
+        "fornecedor":"Vasconcelos e Filhos"
+    },
+    {
+        "id_despesa":117,
+        "data":1725062400000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":10553.75,
+        "fornecedor":"Siqueira - ME"
+    },
+    {
+        "id_despesa":118,
+        "data":1730073600000,
+        "tipo":"Água",
+        "setor":"Logística",
+        "valor":13138.33,
+        "fornecedor":"Cavalcante"
+    },
+    {
+        "id_despesa":119,
+        "data":1728777600000,
+        "tipo":"Salário",
+        "setor":"Logística",
+        "valor":12722.4,
+        "fornecedor":"Albuquerque"
+    },
+    {
+        "id_despesa":120,
+        "data":1720224000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Produção",
+        "valor":46183.1,
+        "fornecedor":"Duarte Martins - EI"
+    },
+    {
+        "id_despesa":121,
+        "data":1743033600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Logística",
+        "valor":2628.9,
+        "fornecedor":"Carvalho"
+    },
+    {
+        "id_despesa":122,
+        "data":1723593600000,
+        "tipo":"Salário",
+        "setor":"Financeiro",
+        "valor":144401.7,
+        "fornecedor":"Farias"
+    },
+    {
+        "id_despesa":123,
+        "data":1718064000000,
+        "tipo":"Salário",
+        "setor":"Logística",
+        "valor":2077.81,
+        "fornecedor":"Casa Grande"
+    },
+    {
+        "id_despesa":124,
+        "data":1739318400000,
+        "tipo":"Salário",
+        "setor":"Logística",
+        "valor":18311.57,
+        "fornecedor":"Pinto e Filhos"
+    },
+    {
+        "id_despesa":125,
+        "data":1722384000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"RH",
+        "valor":19545.69,
+        "fornecedor":"Dias Silveira Ltda."
+    },
+    {
+        "id_despesa":126,
+        "data":1724284800000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Comercial",
+        "valor":19475.71,
+        "fornecedor":"Rocha"
+    },
+    {
+        "id_despesa":127,
+        "data":1728259200000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":1237.47,
+        "fornecedor":"Casa Grande S.A."
+    },
+    {
+        "id_despesa":128,
+        "data":1734652800000,
+        "tipo":"Salário",
+        "setor":"Comercial",
+        "valor":6126.34,
+        "fornecedor":"da Rocha - EI"
+    },
+    {
+        "id_despesa":129,
+        "data":1736812800000,
+        "tipo":"Salário",
+        "setor":"Financeiro",
+        "valor":11962.2,
+        "fornecedor":"Cassiano Sampaio - ME"
+    },
+    {
+        "id_despesa":130,
+        "data":1725753600000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":8649.62,
+        "fornecedor":"Oliveira S\/A"
+    },
+    {
+        "id_despesa":131,
+        "data":1733788800000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":5541.57,
+        "fornecedor":"Rocha Siqueira e Filhos"
+    },
+    {
+        "id_despesa":132,
+        "data":1728259200000,
+        "tipo":"Água",
+        "setor":"Comercial",
+        "valor":16286.92,
+        "fornecedor":"Nascimento Monteiro S\/A"
+    },
+    {
+        "id_despesa":133,
+        "data":1718841600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Logística",
+        "valor":72575.4,
+        "fornecedor":"da Cruz"
+    },
+    {
+        "id_despesa":134,
+        "data":1728000000000,
+        "tipo":"Energia",
+        "setor":"Logística",
+        "valor":5258.6,
+        "fornecedor":"Cavalcante Freitas S.A."
+    },
+    {
+        "id_despesa":135,
+        "data":1732924800000,
+        "tipo":"Salário",
+        "setor":"Logística",
+        "valor":2272.92,
+        "fornecedor":"Lopes"
+    },
+    {
+        "id_despesa":136,
+        "data":1737158400000,
+        "tipo":"Água",
+        "setor":"RH",
+        "valor":17036.82,
+        "fornecedor":""
+    },
+    {
+        "id_despesa":137,
+        "data":1722816000000,
+        "tipo":"Energia",
+        "setor":"Financeiro",
+        "valor":10710.51,
+        "fornecedor":"Correia"
+    },
+    {
+        "id_despesa":138,
+        "data":1737417600000,
+        "tipo":"Salário",
+        "setor":"Financeiro",
+        "valor":10072.69,
+        "fornecedor":"Lopes e Filhos"
+    },
+    {
+        "id_despesa":139,
+        "data":1739923200000,
+        "tipo":"Salário",
+        "setor":"Financeiro",
+        "valor":2418.44,
+        "fornecedor":"Carvalho Novais Ltda."
+    },
+    {
+        "id_despesa":140,
+        "data":1724716800000,
+        "tipo":"Salário",
+        "setor":"Comercial",
+        "valor":14375.11,
+        "fornecedor":"Sousa S.A."
+    },
+    {
+        "id_despesa":141,
+        "data":1732838400000,
+        "tipo":"Água",
+        "setor":"Comercial",
+        "valor":100974.9,
+        "fornecedor":"Santos Guerra - EI"
+    },
+    {
+        "id_despesa":142,
+        "data":1727481600000,
+        "tipo":"Energia",
+        "setor":"Financeiro",
+        "valor":17698.83,
+        "fornecedor":"Sousa"
+    },
+    {
+        "id_despesa":143,
+        "data":1740182400000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":4945.28,
+        "fornecedor":"Sá da Cunha Ltda."
+    },
+    {
+        "id_despesa":144,
+        "data":1724025600000,
+        "tipo":"Água",
+        "setor":"Comercial",
+        "valor":487.37,
+        "fornecedor":"Vargas Siqueira - ME"
+    },
+    {
+        "id_despesa":145,
+        "data":1723593600000,
+        "tipo":"Salário",
+        "setor":"Produção",
+        "valor":6136.22,
+        "fornecedor":""
+    },
+    {
+        "id_despesa":146,
+        "data":1721520000000,
+        "tipo":"Internet",
+        "setor":"RH",
+        "valor":13972.44,
+        "fornecedor":"Brito"
+    },
+    {
+        "id_despesa":147,
+        "data":1728777600000,
+        "tipo":"Energia",
+        "setor":"RH",
+        "valor":16849.34,
+        "fornecedor":"Campos - ME"
+    },
+    {
+        "id_despesa":148,
+        "data":1735689600000,
+        "tipo":"Água",
+        "setor":"Comercial",
+        "valor":16632.82,
+        "fornecedor":"Dias Pastor S.A."
+    },
+    {
+        "id_despesa":149,
+        "data":1715904000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"RH",
+        "valor":15789.9,
+        "fornecedor":"Martins"
+    },
+    {
+        "id_despesa":150,
+        "data":1716854400000,
+        "tipo":"Internet",
+        "setor":"Financeiro",
+        "valor":10486.14,
+        "fornecedor":"Sousa - EI"
+    },
+    {
+        "id_despesa":151,
+        "data":1730073600000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":14058.19,
+        "fornecedor":"Teixeira"
+    },
+    {
+        "id_despesa":152,
+        "data":1745280000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Financeiro",
+        "valor":4178.77,
+        "fornecedor":"Vieira S.A."
+    },
+    {
+        "id_despesa":153,
+        "data":1731283200000,
+        "tipo":"Salário",
+        "setor":"Comercial",
+        "valor":6320.58,
+        "fornecedor":""
+    },
+    {
+        "id_despesa":154,
+        "data":1727913600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Comercial",
+        "valor":76039.6,
+        "fornecedor":"Borges Marques Ltda."
+    },
+    {
+        "id_despesa":155,
+        "data":1734048000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Produção",
+        "valor":7973.77,
+        "fornecedor":"Peixoto"
+    },
+    {
+        "id_despesa":156,
+        "data":1717459200000,
+        "tipo":"Internet",
+        "setor":"RH",
+        "valor":18256.12,
+        "fornecedor":"Ferreira"
+    },
+    {
+        "id_despesa":157,
+        "data":1726963200000,
+        "tipo":"Energia",
+        "setor":"Financeiro",
+        "valor":2988.4,
+        "fornecedor":"Pinto S\/A"
+    },
+    {
+        "id_despesa":158,
+        "data":1722038400000,
+        "tipo":"Água",
+        "setor":"Comercial",
+        "valor":5351.92,
+        "fornecedor":"Caldeira"
+    },
+    {
+        "id_despesa":159,
+        "data":1728518400000,
+        "tipo":"Salário",
+        "setor":"RH",
+        "valor":5171.82,
+        "fornecedor":"Santos"
+    },
+    {
+        "id_despesa":160,
+        "data":1733356800000,
+        "tipo":"Salário",
+        "setor":"Logística",
+        "valor":18195.74,
+        "fornecedor":""
+    },
+    {
+        "id_despesa":161,
+        "data":1723420800000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":4638.1,
+        "fornecedor":"Rios S\/A"
+    },
+    {
+        "id_despesa":162,
+        "data":1745020800000,
+        "tipo":"Salário",
+        "setor":"Comercial",
+        "valor":13156.63,
+        "fornecedor":""
+    },
+    {
+        "id_despesa":163,
+        "data":1737504000000,
+        "tipo":"Salário",
+        "setor":"Comercial",
+        "valor":2138.82,
+        "fornecedor":"Cavalcanti"
+    },
+    {
+        "id_despesa":164,
+        "data":1726358400000,
+        "tipo":"Energia",
+        "setor":"Logística",
+        "valor":"",
+        "fornecedor":"Lima"
+    },
+    {
+        "id_despesa":165,
+        "data":1734998400000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Comercial",
+        "valor":7671.54,
+        "fornecedor":"Correia S\/A"
+    },
+    {
+        "id_despesa":166,
+        "data":1723939200000,
+        "tipo":"Salário",
+        "setor":"Financeiro",
+        "valor":4056.14,
+        "fornecedor":"Cavalcanti"
+    },
+    {
+        "id_despesa":167,
+        "data":1738281600000,
+        "tipo":"Salário",
+        "setor":"Financeiro",
+        "valor":13911.54,
+        "fornecedor":""
     },
     {
         "id_despesa":168,
-        "data":1731456000000,
-        "tipo":"Água",
-        "setor":"Logística",
-        "valor":19831.62,
+        "data":1720051200000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"RH",
+        "valor":11814.23,
         "fornecedor":""
     },
     {
         "id_despesa":169,
-        "data":1726444800000,
-        "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":16451.39,
-        "fornecedor":"da Costa S.A."
+        "data":1736812800000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Produção",
+        "valor":6241.66,
+        "fornecedor":""
     },
     {
         "id_despesa":170,
-        "data":1738281600000,
-        "tipo":"Internet",
-        "setor":"Logística",
-        "valor":18342.52,
-        "fornecedor":""
+        "data":1737763200000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":5133.06,
+        "fornecedor":"Pinto"
     },
     {
         "id_despesa":171,
-        "data":1744761600000,
-        "tipo":"Energia",
-        "setor":"Logística",
-        "valor":965.46,
-        "fornecedor":"Costela"
+        "data":1722384000000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":13345.97,
+        "fornecedor":"da Luz"
     },
     {
         "id_despesa":172,
-        "data":1724025600000,
-        "tipo":"Internet",
-        "setor":"Comercial",
-        "valor":14432.77,
-        "fornecedor":"Ferreira Rezende S\/A"
+        "data":1744070400000,
+        "tipo":"Salário",
+        "setor":"Produção",
+        "valor":15517.94,
+        "fornecedor":"da Costa - ME"
     },
     {
         "id_despesa":173,
-        "data":1734048000000,
-        "tipo":"Água",
-        "setor":"RH",
-        "valor":15566.04,
-        "fornecedor":"Câmara e Filhos"
+        "data":1735948800000,
+        "tipo":"Energia",
+        "setor":"Logística",
+        "valor":19249.61,
+        "fornecedor":"Barros"
     },
     {
         "id_despesa":174,
-        "data":1720828800000,
+        "data":1717027200000,
         "tipo":"Água",
-        "setor":"Logística",
-        "valor":3773.75,
-        "fornecedor":"Lopes - EI"
+        "setor":"Financeiro",
+        "valor":15012.07,
+        "fornecedor":"Gomes Ltda."
     },
     {
         "id_despesa":175,
-        "data":1744416000000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":16309.76,
-        "fornecedor":"Vargas Costa S.A."
+        "data":1741737600000,
+        "tipo":"Internet",
+        "setor":"Logística",
+        "valor":265.09,
+        "fornecedor":"Guerra"
     },
     {
         "id_despesa":176,
-        "data":1719360000000,
-        "tipo":"Salário",
+        "data":1745712000000,
+        "tipo":"Água",
         "setor":"Financeiro",
-        "valor":6071.89,
-        "fornecedor":"Cassiano - ME"
+        "valor":8594.99,
+        "fornecedor":"Macedo"
     },
     {
         "id_despesa":177,
-        "data":1718323200000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"RH",
-        "valor":12306.04,
-        "fornecedor":"Aragão"
+        "data":1718841600000,
+        "tipo":"Água",
+        "setor":"Produção",
+        "valor":18141.52,
+        "fornecedor":"Barros da Conceição e Filhos"
     },
     {
         "id_despesa":178,
-        "data":1736208000000,
+        "data":1719964800000,
         "tipo":"Internet",
         "setor":"Financeiro",
-        "valor":5194.28,
-        "fornecedor":"Azevedo Rocha S\/A"
+        "valor":"",
+        "fornecedor":"da Paz Machado S.A."
     },
     {
         "id_despesa":179,
-        "data":1744761600000,
+        "data":1744243200000,
         "tipo":"Energia",
         "setor":"Comercial",
-        "valor":9798.56,
-        "fornecedor":"Casa Grande Fogaça S\/A"
+        "valor":12645.39,
+        "fornecedor":"Sá - EI"
     },
     {
         "id_despesa":180,
-        "data":1730419200000,
-        "tipo":"Internet",
-        "setor":"Logística",
-        "valor":6962.14,
-        "fornecedor":"Barbosa e Filhos"
+        "data":1732233600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Financeiro",
+        "valor":8609.15,
+        "fornecedor":"Campos"
     },
     {
         "id_despesa":181,
-        "data":1730678400000,
+        "data":1728950400000,
         "tipo":"Água",
-        "setor":"RH",
-        "valor":"",
-        "fornecedor":"Almeida"
+        "setor":"Logística",
+        "valor":10682.91,
+        "fornecedor":"da Mota - ME"
     },
     {
         "id_despesa":182,
-        "data":1716163200000,
-        "tipo":"Internet",
-        "setor":"Logística",
-        "valor":3003.23,
-        "fornecedor":"Fonseca S\/A"
+        "data":1727568000000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Financeiro",
+        "valor":5169.86,
+        "fornecedor":"Ferreira"
     },
     {
         "id_despesa":183,
-        "data":1745971200000,
-        "tipo":"Energia",
-        "setor":"Financeiro",
-        "valor":2345.28,
-        "fornecedor":"da Cunha"
+        "data":1739145600000,
+        "tipo":"Internet",
+        "setor":"Produção",
+        "valor":2502.06,
+        "fornecedor":"da Conceição Pimenta - ME"
     },
     {
         "id_despesa":184,
-        "data":1740096000000,
+        "data":1740960000000,
         "tipo":"Compra Matéria-prima",
-        "setor":"Comercial",
-        "valor":6218.49,
-        "fornecedor":"da Rocha Fogaça S.A."
+        "setor":"Produção",
+        "valor":7215.81,
+        "fornecedor":"Brito"
     },
     {
         "id_despesa":185,
-        "data":1740182400000,
-        "tipo":"Salário",
-        "setor":"Comercial",
-        "valor":2372.55,
-        "fornecedor":"Cassiano"
+        "data":1719705600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Financeiro",
+        "valor":"",
+        "fornecedor":"Porto"
     },
     {
         "id_despesa":186,
-        "data":1739059200000,
-        "tipo":"Internet",
-        "setor":"Produção",
-        "valor":1536.6,
-        "fornecedor":"Nunes Garcia Ltda."
+        "data":1729900800000,
+        "tipo":"Salário",
+        "setor":"Logística",
+        "valor":"",
+        "fornecedor":"Gomes - ME"
     },
     {
         "id_despesa":187,
-        "data":1717200000000,
+        "data":1720137600000,
         "tipo":"Compra Matéria-prima",
-        "setor":"Comercial",
-        "valor":1026.1,
-        "fornecedor":"da Rocha Santos Ltda."
+        "setor":"Logística",
+        "valor":18154.78,
+        "fornecedor":"Costela"
     },
     {
         "id_despesa":188,
-        "data":1744675200000,
-        "tipo":"Energia",
+        "data":1745193600000,
+        "tipo":"Salário",
         "setor":"Logística",
-        "valor":19110.08,
-        "fornecedor":"Rezende Ltda."
+        "valor":17068.03,
+        "fornecedor":"Abreu Sales e Filhos"
     },
     {
         "id_despesa":189,
-        "data":1743811200000,
-        "tipo":"Internet",
-        "setor":"Produção",
-        "valor":11426.16,
-        "fornecedor":"Carvalho Câmara e Filhos"
+        "data":1722038400000,
+        "tipo":"Salário",
+        "setor":"RH",
+        "valor":12022.47,
+        "fornecedor":"Pereira S.A."
     },
     {
         "id_despesa":190,
-        "data":1733616000000,
-        "tipo":"Água",
-        "setor":"Comercial",
-        "valor":13550.61,
-        "fornecedor":"Monteiro Novaes S.A."
+        "data":1716681600000,
+        "tipo":"Internet",
+        "setor":"Logística",
+        "valor":13420.29,
+        "fornecedor":"Viana"
     },
     {
         "id_despesa":191,
-        "data":1732147200000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Comercial",
-        "valor":4004.41,
-        "fornecedor":"Borges"
-    },
-    {
-        "id_despesa":192,
-        "data":1733356800000,
+        "data":1721952000000,
         "tipo":"Energia",
-        "setor":"RH",
-        "valor":14586.97,
+        "setor":"Comercial",
+        "valor":10699.82,
         "fornecedor":""
     },
     {
+        "id_despesa":192,
+        "data":1737417600000,
+        "tipo":"Internet",
+        "setor":"RH",
+        "valor":15058.5,
+        "fornecedor":"Aragão"
+    },
+    {
         "id_despesa":193,
-        "data":1715040000000,
-        "tipo":"Energia",
-        "setor":"Comercial",
-        "valor":8588.8,
-        "fornecedor":"Garcia Ltda."
+        "data":1730160000000,
+        "tipo":"Água",
+        "setor":"Logística",
+        "valor":4755.16,
+        "fornecedor":"da Paz"
     },
     {
         "id_despesa":194,
-        "data":1744329600000,
+        "data":1719532800000,
         "tipo":"Salário",
-        "setor":"Financeiro",
-        "valor":2275.15,
-        "fornecedor":"Martins Nascimento - ME"
+        "setor":"RH",
+        "valor":10417.56,
+        "fornecedor":"Barros S\/A"
     },
     {
         "id_despesa":195,
-        "data":1724112000000,
-        "tipo":"Energia",
-        "setor":"RH",
-        "valor":18170.31,
-        "fornecedor":"Freitas Albuquerque - EI"
+        "data":1739577600000,
+        "tipo":"Compra Matéria-prima",
+        "setor":"Comercial",
+        "valor":7319.44,
+        "fornecedor":"Andrade"
     },
     {
         "id_despesa":196,
-        "data":1727913600000,
-        "tipo":"Energia",
-        "setor":"Produção",
-        "valor":15225.1,
-        "fornecedor":"da Cunha Mendes e Filhos"
+        "data":1727654400000,
+        "tipo":"Água",
+        "setor":"RH",
+        "valor":11530.57,
+        "fornecedor":"Silva"
     },
     {
         "id_despesa":197,
-        "data":1721347200000,
-        "tipo":"Salário",
-        "setor":"RH",
-        "valor":16460.68,
-        "fornecedor":"Pires e Filhos"
+        "data":1732752000000,
+        "tipo":"Energia",
+        "setor":"Produção",
+        "valor":9929.63,
+        "fornecedor":"Pacheco Moraes - ME"
     },
     {
         "id_despesa":198,
-        "data":1729987200000,
-        "tipo":"Água",
-        "setor":"Financeiro",
-        "valor":12795.28,
-        "fornecedor":"Nascimento"
+        "data":1733529600000,
+        "tipo":"Energia",
+        "setor":"Comercial",
+        "valor":16592.41,
+        "fornecedor":"da Luz"
     },
     {
         "id_despesa":199,
-        "data":1723852800000,
-        "tipo":"Compra Matéria-prima",
-        "setor":"Logística",
-        "valor":9634.17,
-        "fornecedor":"da Costa"
+        "data":1725494400000,
+        "tipo":"Internet",
+        "setor":"Comercial",
+        "valor":19528.05,
+        "fornecedor":"Sá Moura e Filhos"
     },
     {
         "id_despesa":200,
-        "data":1741564800000,
-        "tipo":"Salário",
-        "setor":"Produção",
-        "valor":13022.0,
-        "fornecedor":"Porto - ME"
+        "data":1743897600000,
+        "tipo":"Água",
+        "setor":"Financeiro",
+        "valor":10229.81,
+        "fornecedor":"Barbosa e Filhos"
     }
 ]

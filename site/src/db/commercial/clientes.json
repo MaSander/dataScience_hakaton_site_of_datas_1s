@@ -1,0 +1,702 @@
+[
+    {
+        "id_cliente":1,
+        "nome":"Cunha",
+        "email":"zda-paz@example.com",
+        "cidade":"Moraes do Amparo",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":2,
+        "nome":"Pastor Almeida Ltda.",
+        "email":"dante60@example.com",
+        "cidade":"Fernandes",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":3,
+        "nome":"Nascimento",
+        "email":"da-costagabriel@example.com",
+        "cidade":"Vargas",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":4,
+        "nome":"da Cruz",
+        "email":"zpereira@example.org",
+        "cidade":"Almeida de das Neves",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":5,
+        "nome":"Guerra e Filhos",
+        "email":"yago64@example.com",
+        "cidade":"da Costa",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":6,
+        "nome":"Marques S.A.",
+        "email":"henriquesiqueira@example.com",
+        "cidade":"Macedo",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":7,
+        "nome":"Cardoso Garcia - EI",
+        "email":"pedro-miguel33@example.org",
+        "cidade":"Teixeira da Praia",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":8,
+        "nome":"Pimenta",
+        "email":"matheus00@example.net",
+        "cidade":"Garcia",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":9,
+        "nome":"Moura e Filhos",
+        "email":"luisa10@example.net",
+        "cidade":"Cirino",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":10,
+        "nome":"Nogueira",
+        "email":"melissa31@example.org",
+        "cidade":"Sá da Mata",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":11,
+        "nome":"Araújo Caldeira S\/A",
+        "email":"mda-rocha@example.com",
+        "cidade":"Mendes",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":12,
+        "nome":"Cavalcanti",
+        "email":"pastorkaique@example.com",
+        "cidade":"Azevedo da Praia",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":13,
+        "nome":"Lima Lima - EI",
+        "email":"maria-juliaaragao@example.org",
+        "cidade":"Brito da Praia",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":14,
+        "nome":"da Mata S.A.",
+        "email":"emailinvalido",
+        "cidade":"Guerra de Cirino",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":15,
+        "nome":"Fer",
+        "email":"ana-julianogueira@example.org",
+        "cidade":"Azevedo da Serra",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":16,
+        "nome":"Novaes S.A.",
+        "email":"carlos-eduardosouza@example.org",
+        "cidade":"Abreu",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":17,
+        "nome":"Moura",
+        "email":"piresrafael@example.org",
+        "cidade":"da Cunha de Cunha",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":18,
+        "nome":"Aparecida Macedo Ltda.",
+        "email":"vitor12@example.com",
+        "cidade":"Cardoso da Praia",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":19,
+        "nome":"Novais",
+        "email":"ffreitas@example.net",
+        "cidade":"Pires da Serra",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":20,
+        "nome":"Fonseca",
+        "email":"laraabreu@example.com",
+        "cidade":"Brito de Pinto",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":21,
+        "nome":"Rios Barros - ME",
+        "email":"rebeca69@example.net",
+        "cidade":"Almeida das Flores",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":22,
+        "nome":"da Cunha Câmara S\/A",
+        "email":"julianafreitas@example.org",
+        "cidade":"Macedo do Sul",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":23,
+        "nome":"Novaes",
+        "email":"emailinvalido",
+        "cidade":"Pastor de Goiás",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":24,
+        "nome":"Duarte",
+        "email":"eda-rosa@example.org",
+        "cidade":"Farias Grande",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":25,
+        "nome":"Castro",
+        "email":"noah84@example.net",
+        "cidade":"Nogueira de da Rosa",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":26,
+        "nome":"Jesus Ltda.",
+        "email":"qrocha@example.org",
+        "cidade":"Sá dos Dourados",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":27,
+        "nome":"Cav",
+        "email":"nogueiraluan@example.com",
+        "cidade":"Câmara",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":28,
+        "nome":"Carvalho",
+        "email":"opacheco@example.org",
+        "cidade":"Câmara do Norte",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":29,
+        "nome":"Caldeira",
+        "email":"kteixeira@example.com",
+        "cidade":"Marques da Serra",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":30,
+        "nome":"da Mata",
+        "email":"mfarias@example.com",
+        "cidade":"Cirino",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":31,
+        "nome":"Gar",
+        "email":"aylasantos@example.com",
+        "cidade":"Vieira Alegre",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":32,
+        "nome":"Duarte",
+        "email":"gabriela65@example.com",
+        "cidade":"Sampaio",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":33,
+        "nome":"Gonçalves - ME",
+        "email":"siqueiraenzo-gabriel@example.net",
+        "cidade":"Novaes",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":34,
+        "nome":"Teixeira e Filhos",
+        "email":"ravy56@example.net",
+        "cidade":"Cavalcante Paulista",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":35,
+        "nome":"da Rosa",
+        "email":"ceciliada-conceicao@example.org",
+        "cidade":"Mendonça",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":36,
+        "nome":"Peixoto",
+        "email":"maria-florfogaca@example.com",
+        "cidade":"da Cruz de Lopes",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":37,
+        "nome":"Gonçalves - ME",
+        "email":"da-luzjulia@example.net",
+        "cidade":"Cavalcanti do Campo",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":38,
+        "nome":"Farias",
+        "email":"maria-julia07@example.com",
+        "cidade":"Ramos do Galho",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":39,
+        "nome":"Peixoto e Filhos",
+        "email":"zribeiro@example.org",
+        "cidade":"Pinto",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":40,
+        "nome":"da Rosa - EI",
+        "email":"maria-eduardarodrigues@example.com",
+        "cidade":"Caldeira",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":41,
+        "nome":"Machado Pinto - EI",
+        "email":"theosiqueira@example.net",
+        "cidade":"Barros de Minas",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":42,
+        "nome":"Silva",
+        "email":"emailinvalido",
+        "cidade":"Monteiro",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":43,
+        "nome":"Viana",
+        "email":"moreirajose@example.org",
+        "cidade":"Vargas de das Neves",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":44,
+        "nome":"Pimenta Melo e Filhos",
+        "email":"alicefernandes@example.org",
+        "cidade":"Garcia de Fogaça",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":45,
+        "nome":"Teixeira",
+        "email":"emailinvalido",
+        "cidade":"Vasconcelos de Correia",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":46,
+        "nome":"Nascimento",
+        "email":"augusto14@example.org",
+        "cidade":"Sampaio de da Cunha",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":47,
+        "nome":"Cavalcante - ME",
+        "email":"frocha@example.net",
+        "cidade":"da Rosa da Mata",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":48,
+        "nome":"Ram",
+        "email":"felipemarques@example.net",
+        "cidade":"da Luz da Serra",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":49,
+        "nome":"Freitas",
+        "email":"julia81@example.com",
+        "cidade":"Gonçalves",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":50,
+        "nome":"Monteiro da Costa S\/A",
+        "email":"mendesyago@example.com",
+        "cidade":"Andrade de Fonseca",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":51,
+        "nome":"da Mota - EI",
+        "email":"valmeida@example.com",
+        "cidade":"Monteiro",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":52,
+        "nome":"Abreu Sousa Ltda.",
+        "email":"ceciliacasa-grande@example.net",
+        "cidade":"Pires",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":53,
+        "nome":"Sá",
+        "email":"rbarros@example.com",
+        "cidade":"Correia de Alves",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":54,
+        "nome":"da Mota",
+        "email":"joao-gabriel32@example.com",
+        "cidade":"da Cruz",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":55,
+        "nome":"Vieira Ltda.",
+        "email":"pintoantonella@example.org",
+        "cidade":"Silva",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":56,
+        "nome":"Casa Grande",
+        "email":"hduarte@example.org",
+        "cidade":"da Luz",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":57,
+        "nome":"Cassiano Casa Grande - ME",
+        "email":"lorenanascimento@example.net",
+        "cidade":"Rezende",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":58,
+        "nome":"Viana",
+        "email":"pnovais@example.net",
+        "cidade":"da Luz",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":59,
+        "nome":"Moura Câmara - EI",
+        "email":"fmoura@example.net",
+        "cidade":"Cavalcanti do Sul",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":60,
+        "nome":"Rios Ltda.",
+        "email":"liz44@example.net",
+        "cidade":"Moura",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":61,
+        "nome":"da Mata Cassiano e Filhos",
+        "email":"ygarcia@example.com",
+        "cidade":"Mendes do Campo",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":62,
+        "nome":"Carvalho",
+        "email":"xfogaca@example.net",
+        "cidade":"Teixeira do Campo",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":63,
+        "nome":"Freitas",
+        "email":"rfreitas@example.org",
+        "cidade":"Melo de Moraes",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":64,
+        "nome":"Cardoso",
+        "email":"diogo32@example.net",
+        "cidade":"da Paz Alegre",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":65,
+        "nome":"Campos Nogueira S.A.",
+        "email":"maysasilva@example.org",
+        "cidade":"Siqueira",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":66,
+        "nome":"Cunha Ltda.",
+        "email":"fariasmaria-julia@example.org",
+        "cidade":"Azevedo do Oeste",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":67,
+        "nome":"Cam",
+        "email":"emailinvalido",
+        "cidade":"Sousa Alegre",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":68,
+        "nome":"Nascimento",
+        "email":"allanarodrigues@example.org",
+        "cidade":"Ferreira",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":69,
+        "nome":"da Cruz",
+        "email":"giovanna62@example.org",
+        "cidade":"Barros do Norte",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":70,
+        "nome":"Siqueira S.A.",
+        "email":"oliveiralaura@example.net",
+        "cidade":"Machado dos Dourados",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":71,
+        "nome":"Pereira Ltda.",
+        "email":"sophie56@example.com",
+        "cidade":"Novais dos Dourados",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":72,
+        "nome":"da Rocha",
+        "email":"gfreitas@example.net",
+        "cidade":"Barros",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":73,
+        "nome":"Vieira",
+        "email":"dantedas-neves@example.net",
+        "cidade":"Pereira de Mendes",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":74,
+        "nome":"das Neves",
+        "email":"ana-julia88@example.com",
+        "cidade":"Ramos",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":75,
+        "nome":"Caldeira",
+        "email":"tmacedo@example.org",
+        "cidade":"Montenegro Paulista",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":76,
+        "nome":"Lima",
+        "email":"vicenterios@example.net",
+        "cidade":"Novaes",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":77,
+        "nome":"Martins",
+        "email":"barrosenzo@example.net",
+        "cidade":"da Rosa da Serra",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":78,
+        "nome":"Moura Santos - EI",
+        "email":"ravyvargas@example.com",
+        "cidade":"Costela",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":79,
+        "nome":"da Cunha da Mota e Filhos",
+        "email":"danielacostela@example.org",
+        "cidade":"da Mata do Amparo",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":80,
+        "nome":"Sá da Paz Ltda.",
+        "email":"helenamoreira@example.org",
+        "cidade":"Barros",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":81,
+        "nome":"Carvalho",
+        "email":"leticiasilveira@example.com",
+        "cidade":"Abreu",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":82,
+        "nome":"Lima",
+        "email":"drodrigues@example.com",
+        "cidade":"Jesus",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":83,
+        "nome":"Moreira S.A.",
+        "email":"ravyrodrigues@example.net",
+        "cidade":"Albuquerque do Campo",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":84,
+        "nome":"Duarte",
+        "email":"davi-miguelleao@example.com",
+        "cidade":"Farias de Cunha",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":85,
+        "nome":"Leã",
+        "email":"arthurcamargo@example.org",
+        "cidade":"Pires",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":86,
+        "nome":"Martins",
+        "email":"duartedante@example.net",
+        "cidade":"Nascimento da Prata",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":87,
+        "nome":"Moura",
+        "email":"clarice23@example.org",
+        "cidade":"Dias",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":88,
+        "nome":"Andrade",
+        "email":"xpastor@example.org",
+        "cidade":"Costela",
+        "categoria":"Restaurante"
+    },
+    {
+        "id_cliente":89,
+        "nome":"Nogueira",
+        "email":"piresana-vitoria@example.org",
+        "cidade":"Fernandes",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":90,
+        "nome":"Cavalcanti",
+        "email":"emailinvalido",
+        "cidade":"Castro",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":91,
+        "nome":"Araújo",
+        "email":"tda-mata@example.com",
+        "cidade":"Andrade de Vargas",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":92,
+        "nome":"Mendes",
+        "email":"almeidajulia@example.org",
+        "cidade":"Pimenta do Norte",
+        "categoria":"Atacado"
+    },
+    {
+        "id_cliente":93,
+        "nome":"da ",
+        "email":"qda-cunha@example.net",
+        "cidade":"Ramos",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":94,
+        "nome":"Azevedo da Mata e Filhos",
+        "email":"dgarcia@example.org",
+        "cidade":"Novaes",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":95,
+        "nome":"Moraes Ltda.",
+        "email":"mariahcamara@example.org",
+        "cidade":"Pinto Alegre",
+        "categoria":"Varejo"
+    },
+    {
+        "id_cliente":96,
+        "nome":"Rocha",
+        "email":"das-nevesisadora@example.org",
+        "cidade":"Leão",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":97,
+        "nome":"da Cruz",
+        "email":"ksilva@example.com",
+        "cidade":"Vieira",
+        "categoria":"Indústria"
+    },
+    {
+        "id_cliente":98,
+        "nome":"Carvalho",
+        "email":"maria-luizasousa@example.com",
+        "cidade":"Casa Grande",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":99,
+        "nome":"Camargo Cirino S.A.",
+        "email":"daniela84@example.com",
+        "cidade":"Garcia",
+        "categoria":"Distribuidor"
+    },
+    {
+        "id_cliente":100,
+        "nome":"Correia",
+        "email":"carvalhobenicio@example.com",
+        "cidade":"Cavalcanti",
+        "categoria":"Atacado"
+    }
+]

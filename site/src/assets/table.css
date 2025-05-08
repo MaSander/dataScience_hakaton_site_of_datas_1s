@@ -1,0 +1,83 @@
+/* Estilo base da tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    table-layout: auto;
+}
+
+/* Cabeçalho */
+thead {
+    background: linear-gradient(90deg, #004080, #0073e6);
+    color: #fff;
+    font-weight: 600;
+    font-size: 1rem;
+    text-align: left;
+}
+
+thead th {
+    padding: 12px 20px;
+    user-select: none;
+}
+
+/* Corpo da tabela */
+tbody tr {
+    border-bottom: 1px solid #e0e0e0;
+    transition: background-color 0.3s ease;
+    cursor: default;
+}
+
+tbody tr:hover {
+    background-color: #f0f7ff;
+}
+
+tbody td {
+    padding: 12px 20px;
+    color: #333;
+    font-size: 0.95rem;
+}
+
+tbody tr:last-child {
+    border-bottom: none;
+}
+
+/* Responsividade simples sem data-label */
+
+/* Em telas pequenas, a tabela vira bloco com rolagem horizontal */
+@media (max-width: 600px) {
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    thead,
+    tbody,
+    tr,
+    th,
+    td {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    thead tr {
+        display: inline-block;
+    }
+
+    tbody tr {
+        display: inline-block;
+        margin-bottom: 1rem;
+        vertical-align: top;
+    }
+
+    tbody td {
+        display: block;
+        padding: 8px 12px;
+        min-width: 120px;
+        white-space: normal;
+    }
+}
