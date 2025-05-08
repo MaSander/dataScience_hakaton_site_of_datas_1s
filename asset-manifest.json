@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dataScience_hakaton_site_of_datas_1s/static/css/main.b7d1b820.css",
-    "main.js": "/dataScience_hakaton_site_of_datas_1s/static/js/main.3bd03238.js",
+    "main.js": "/dataScience_hakaton_site_of_datas_1s/static/js/main.c096e384.js",
     "index.html": "/dataScience_hakaton_site_of_datas_1s/index.html",
     "main.b7d1b820.css.map": "/dataScience_hakaton_site_of_datas_1s/static/css/main.b7d1b820.css.map",
-    "main.3bd03238.js.map": "/dataScience_hakaton_site_of_datas_1s/static/js/main.3bd03238.js.map"
+    "main.c096e384.js.map": "/dataScience_hakaton_site_of_datas_1s/static/js/main.c096e384.js.map"
   },
   "entrypoints": [
     "static/css/main.b7d1b820.css",
-    "static/js/main.3bd03238.js"
+    "static/js/main.c096e384.js"
   ]
 }
