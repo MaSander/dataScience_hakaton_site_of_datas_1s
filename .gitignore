@@ -27,11 +27,9 @@ yarn-error.log*
 
 # Build output
 dist
-build
 out
 .next
 
 # Logs and databases
 *.log
 *.sqlite
-
