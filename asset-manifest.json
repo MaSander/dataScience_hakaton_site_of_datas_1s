@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/dataScience_hakaton_site_of_datas_1s/static/css/main.b7d1b820.css",
-    "main.js": "/dataScience_hakaton_site_of_datas_1s/static/js/main.2bd3f114.js",
+    "main.css": "/dataScience_hakaton_site_of_datas_1s/static/css/main.eea5da00.css",
+    "main.js": "/dataScience_hakaton_site_of_datas_1s/static/js/main.99d64ba6.js",
+    "static/media/logo-senai.png": "/dataScience_hakaton_site_of_datas_1s/static/media/logo-senai.58359adf54aa762050c0.png",
+    "static/media/Logo.svg": "/dataScience_hakaton_site_of_datas_1s/static/media/Logo.4ea7e7d1b5a84afc6f6cc8c266a850b8.svg",
+    "static/media/Favicon.svg": "/dataScience_hakaton_site_of_datas_1s/static/media/Favicon.928b1b9925886e853aafd4d4ceef4e6e.svg",
     "index.html": "/dataScience_hakaton_site_of_datas_1s/index.html",
-    "main.b7d1b820.css.map": "/dataScience_hakaton_site_of_datas_1s/static/css/main.b7d1b820.css.map",
-    "main.2bd3f114.js.map": "/dataScience_hakaton_site_of_datas_1s/static/js/main.2bd3f114.js.map"
+    "main.eea5da00.css.map": "/dataScience_hakaton_site_of_datas_1s/static/css/main.eea5da00.css.map",
+    "main.99d64ba6.js.map": "/dataScience_hakaton_site_of_datas_1s/static/js/main.99d64ba6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7d1b820.css",
-    "static/js/main.2bd3f114.js"
+    "static/css/main.eea5da00.css",
+    "static/js/main.99d64ba6.js"
   ]
 }
